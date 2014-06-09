@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: "Posts"
+title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: soft-trees.jpg
@@ -9,10 +9,9 @@ image:
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
+  <h1><center><a href="{{ post.url }}">{{ post.title }}</a></center></h1>
+  <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+  <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
   <div class="content">
     {{ post.content }}
   </div>
