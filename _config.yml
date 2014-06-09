@@ -2,7 +2,7 @@ title:            craig eley dot com
 tagline:          sound. technology. radio
 description:      This is only a website.
 #Comment out url when working locally to resolve base urls correctly
-# url: http://craigeley.github.io
+url: http://craigeley.github.io
 
 # Owner/author information
 owner:
