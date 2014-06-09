@@ -1,5 +1,6 @@
 {% include head-dark.html %}
 	
+	<div class="overlay overlay-lighter"></div>
 	<div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"</div>
 
     <div id='bump'>
@@ -9,7 +10,7 @@
                   {% for post in site.posts %}
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <h1><center><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></center></h1>
                         <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
                         <p class="">{{ post.content }}</p>
                     </div>
