@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: Craig Eley
+Contact: craig@craigeley.com
+Twitter: craigeley
+Location: State College, PA
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2014-06-09
+Standards: HTML, SCSS, Jekyll                        
+Software: git
