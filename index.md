@@ -1,9 +1,7 @@
 ---
-layout: page
-title: Well.
-tagline: Supporting tagline
+layout: home
+title: "Recent Posts"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: typewriter.jpg
 ---
-
-This section of the site is currently under construction. For ENGL/MUSIC 297c at Penn State for Spring 2014, click [here](http://craigeley.github.io/297c/).
-
-
