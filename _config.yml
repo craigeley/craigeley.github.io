@@ -1,18 +1,19 @@
 title:            craig eley dot com
-tagline:          sound. technology. radio
-description:      This is only a website.
+tagline:          sound | science | technology
+description:      The internet home of craig eley.
 #Comment out url when working locally to resolve base urls correctly
-url: http://craigeley.github.io
+# url: http://craigeley.github.io
 
 # Owner/author information
 owner:
   name:           Craig Eley
   avatar:         avatar.png
-  bio:            "Radio Producer"
+  bio:            "Public Fellow, Radio Producer, Good Listener"
   email:          craig@craigeley.com
   twitter:        craigeley        
   github:         craigeley       
   instagram:      craigeley     
+  disqus:         balzac
   location:       "State College, PA"
   # Plug in your disqus shortname!
 
@@ -35,7 +36,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlights:  pygments
 markdown:    kramdown
 
 kramdown:
