@@ -27,7 +27,7 @@
 	  {% if page.title %}
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Tweet</a></br>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      <a class="share" href="{{ site.url }}{{ page.url }">Top</a>
+      <a class="share" href="{{ page.url | prepend: site.url }}">Top</a></br>
 	  {% endif %}
 
       {% if page.comments %}
