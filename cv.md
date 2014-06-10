@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
+title: CV
 tags: [cv, academic]
 ---
 
