@@ -8,7 +8,7 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="craig eley dot com">
-<meta property="og:description" content="{% for post in paginator.posts %}                      {{ post.title }}            {{page.date | date: "%b %d, %Y" }}...">
+<meta property="og:description" content="{% for post in paginator.posts %}                              {{ post.title }}            {{ post.date | date: "%b %...">
 <meta property="og:url" content="http://craigeley.github.io/page3/index.html">
 <meta property="og:site_name" content="craig eley dot com">
 
@@ -82,6 +82,9 @@
 
 <section class="article">
 
+  <div class="overlay overlay-lighter"></div>
+  <div class="featured-image" style="background-image: url(http://craigeley.github.io/images/pink-radio.jpg)"></div>
+
 
 
       <article class="wrap post">
@@ -93,16 +96,17 @@
           </hgroup>
         </header>
 
-        <!-- This loops through the paginated posts -->
+        <section class="article">
+<a name="blog"></a>
+<!-- This loops through the paginated posts -->
 
-<header class="post-header">
+        <header class="post-header">
           <hgroup>
             <h1><a href="/articles/longform-post">A Longform Post to Cogitate</a></h1>
-            <p class="date"></p>
-            <p class="intro"></p>
+            <p class="date">Aug 05, 2013</p>
+            <p class="intro">Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage.</p>
           </hgroup>
-</header>
-
+        </header>
   <div class="content">
     <p>Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.</p>
 
@@ -149,15 +153,32 @@
 
 
 <!-- Pagination links -->
+
+
 <div class="pagination">
   
-    <a href="/page2" class="previous">Previous</a>
+    <a href="/page2#blog">&laquo; Previous</a>
   
-  <span class="page_number ">Page: 3 of 3</span>
+
   
-    <span class="next ">Next</span>
+    
+      <a href="/index.html#blog">1</a>
+    
+  
+    
+      <a href="/page2#blog">2</a>
+    
+  
+    
+      <em>3</em>
+    
+  
+
+  
+    <span>Next &raquo;</span>
   
 </div>
+
 
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;&quot;%20http://craigeley.github.io/page3/index.html%20via%20&#64;craigeley" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -200,6 +221,8 @@
             
 
 
+            
+            <li><a id="drib" href="http://instagram.com/" target="_blank"><span class="foot-link">Instagram</span></a></li>
             
         </ul>
     </div>

@@ -8,7 +8,7 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="craig eley dot com">
-<meta property="og:description" content="{% for post in paginator.posts %}                      {{ post.title }}            {{page.date | date: "%b %d, %Y" }}...">
+<meta property="og:description" content="{% for post in paginator.posts %}                              {{ post.title }}            {{ post.date | date: "%b %...">
 <meta property="og:url" content="http://craigeley.github.io/page2/index.html">
 <meta property="og:site_name" content="craig eley dot com">
 
@@ -82,6 +82,9 @@
 
 <section class="article">
 
+  <div class="overlay overlay-lighter"></div>
+  <div class="featured-image" style="background-image: url(http://craigeley.github.io/images/pink-radio.jpg)"></div>
+
 
 
       <article class="wrap post">
@@ -93,16 +96,17 @@
           </hgroup>
         </header>
 
-        <!-- This loops through the paginated posts -->
+        <section class="article">
+<a name="blog"></a>
+<!-- This loops through the paginated posts -->
 
-<header class="post-header">
+        <header class="post-header">
           <hgroup>
             <h1><a href="/articles/post-with-figure">Post with Figure</a></h1>
-            <p class="date"></p>
-            <p class="intro"></p>
+            <p class="date">Aug 05, 2013</p>
+            <p class="intro">Examples and code for displaying images in posts.</p>
           </hgroup>
-</header>
-
+        </header>
   <div class="content">
     <p>This is a post that uses a <code>figure</code>. It stacks these images and places a nice little caption below if you fill out <code>figcaption</code>.</p>
 
@@ -120,14 +124,13 @@
 
   </div>
 
-<header class="post-header">
+        <header class="post-header">
           <hgroup>
             <h1><a href="/articles/post-with-feature">Post and Feature Image</a></h1>
-            <p class="date"></p>
-            <p class="intro"></p>
+            <p class="date">Aug 05, 2013</p>
+            <p class="intro">In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.</p>
           </hgroup>
-</header>
-
+        </header>
   <div class="content">
     <p>“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”</p>
 
@@ -156,15 +159,32 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
 
 
 <!-- Pagination links -->
+
+
 <div class="pagination">
   
-    <a href="/page1" class="previous">Previous</a>
+    <a href="/index.html#blog">&laquo; Previous</a>
   
-  <span class="page_number ">Page: 2 of 3</span>
+
   
-    <a href="/page3" class="next">Next</a>
+    
+      <a href="/index.html#blog">1</a>
+    
+  
+    
+      <em>2</em>
+    
+  
+    
+      <a href="/page3#blog">3</a>
+    
+  
+
+  
+    <a href="/page3#blog">Next &raquo;</a>
   
 </div>
+
 
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;&quot;%20http://craigeley.github.io/page2/index.html%20via%20&#64;craigeley" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -207,6 +227,8 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
             
 
 
+            
+            <li><a id="drib" href="http://instagram.com/" target="_blank"><span class="foot-link">Instagram</span></a></li>
             
         </ul>
     </div>

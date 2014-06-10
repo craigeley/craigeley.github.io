@@ -4,7 +4,7 @@ image:
   feature: pink-radio.jpg
 ---
 <section class="article">
-
+<a name="blog"></a>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
         <header class="post-header">
@@ -24,7 +24,7 @@ image:
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}#blog">&laquo; Previous</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
@@ -33,14 +33,14 @@ image:
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}#blog">{{ page }}</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}#blog">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}#blog">Next &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
