@@ -42,7 +42,6 @@ highlights:  pygments
 markdown:    kramdown
 
 paginate: 2
-paginate_path: "blog/page:num"
 
 kramdown:
   auto_ids: true
