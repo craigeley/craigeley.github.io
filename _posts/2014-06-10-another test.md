@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Another Test
+title: A New Site
 category: posts
-tags: [test]
+tags: [updates]
 image:
-  feature: gatsby.jpg
+  feature: pink-radio.jpg
 comments: true
 ---
 
-This is the beginning of me writing something.
+It's always a combination of exactly two things that make me want to update a website: 1. A large or small life change; 2. Wanting to procrastinate from a larger and more scary task at hand. In this case, it was me finally being able to publicly announce that I'll be working on [To the Best of Our Knowledge](http://ttbook.org) starting in September, and the fact that I have an essay due for a proposed book collection soon. With that in mind, I'm moving to this new set-up, which is powered by Jekyll and run from GitHub. I'll be working on moving my old Tumblr posts into this format sometime over the next few days, once I can figure out how to get certain functions to work a litte better.
 
-> This is a blockquote.
-
-This is the rest of the thing.
-
-This is an url image ![Bike](http://upload.wikimedia.org/wikipedia/commons/5/55/Benjamin_G_Bowden_-_Spacelander_Bicycle.jpg)
+As always, thanks for reading.
