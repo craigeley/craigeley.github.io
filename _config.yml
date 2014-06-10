@@ -26,8 +26,8 @@ tools:
 links:
   - title: Blog
     url: /index.html#blog
-  - title: CV
-    url: /cv
+  - title: About
+    url: /about
   - title: Writing
     url: /teaching
   - title: Radio
