@@ -1,14 +1,14 @@
 
 
 <meta charset="utf-8">
-<title>Posts &#8211; craig eley dot com</title>
+<title>Recent Posts &#8211; craig eley dot com</title>
 <meta name="description" content="">
 <meta name="keywords" content="Jekyll, theme, responsive, blog, template">
 
 
 <meta property="og:locale" content="en_US">
-<meta property="og:title" content="Posts &#8211; craig eley dot com">
-<meta property="og:description" content="{% for post in paginator.posts %}  {{ post.title }}      {{ post.date }}        {{ post.content }}  {% endfor %}  {% ...">
+<meta property="og:title" content="Recent Posts &#8211; craig eley dot com">
+<meta property="og:description" content="{% for post in paginator.posts %}                      {{ post.title }}            {{page.date | date: "%b %d, %Y" }}...">
 <meta property="og:url" content="http://craigeley.github.io/blog/page3/index.html">
 <meta property="og:site_name" content="craig eley dot com">
 
@@ -90,7 +90,7 @@
       <article class="wrap post">
         <header class="post-header">
           <hgroup>
-            <h1>Posts</h1>
+            <h1>Recent Posts</h1>
             <p class="date"></p>
             <p class="intro"></p>
           </hgroup>
@@ -98,10 +98,14 @@
 
         <!-- This loops through the paginated posts -->
 
-  <h1><a href="/articles/longform-post">A Longform Post to Cogitate</a></h1>
-  <p class="author">
-    <span class="date">2013-08-05 00:00:00 -0400</span>
-  </p>
+<header class="post-header">
+          <hgroup>
+            <h1><a href="/articles/longform-post">A Longform Post to Cogitate</a></h1>
+            <p class="date"></p>
+            <p class="intro"></p>
+          </hgroup>
+        </header>
+
   <div class="content">
     <p>Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.</p>
 
@@ -158,7 +162,7 @@
   
 </div>
 
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Posts&quot;%20http://craigeley.github.io/blog/page3/index.html%20via%20&#64;craigeley" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Recent Posts&quot;%20http://craigeley.github.io/blog/page3/index.html%20via%20&#64;craigeley" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
