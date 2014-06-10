@@ -5,13 +5,11 @@ image:
 ---
 <section class="article">
 
-<section class="article pad-top">
-
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="article header hgroup date">{{page.date | date: "%b %d, %Y" }}</span>
+    <span class="article header hgroup date">{{ post.date | date: "%b %d, %Y" }}</span>
     </p>
   <div class="content">
     {{ post.content }}
