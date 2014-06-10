@@ -6,23 +6,7 @@
 
     
     <url>
-        <loc>http://craigeley.github.io/articles/test-post</loc>
-    </url>
-    
-    <url>
-        <loc>http://craigeley.github.io/articles/the-little-prince</loc>
-    </url>
-    
-    <url>
-        <loc>http://craigeley.github.io/articles/post-with-figure</loc>
-    </url>
-    
-    <url>
-        <loc>http://craigeley.github.io/articles/post-with-feature</loc>
-    </url>
-    
-    <url>
-        <loc>http://craigeley.github.io/articles/longform-post</loc>
+        <loc>http://craigeley.github.io/articles/another%20test</loc>
     </url>
     
 </urlset>
