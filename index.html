@@ -8,19 +8,10 @@ image:
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <center><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></center>
   <p class="author">
     <center><span class="date" style="text-transform:uppercase">{{ post.date | date: "%b %d, %Y" }}</center></span>
   </p>
-
-
-<header class="post-header">
-          <hgroup>
-            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-            <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
-            <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
-          </hgroup>
-</header>
 
   <div class="content">
     {{ post.content }}
