@@ -8,7 +8,7 @@ image:
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <center><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></center>
-  <span class="header hgroup date">{{ post.date | date: "%b %d, %Y" }}</span></center>
+  </center><span class="article header hgroup date">{{ post.date | date: "%b %d, %Y" }}/center></span><
   </p>
   <div class="content">
     {{ post.content }}
