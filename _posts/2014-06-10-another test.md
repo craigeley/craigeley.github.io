@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Another Test
-description: "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
-category: articles
-tags: [intro, beginner, jekyll, tutorial]
+category: posts
+tags: [test]
 image:
   feature: gatsby.jpg
 comments: true
