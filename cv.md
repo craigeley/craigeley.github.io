@@ -1,8 +1,10 @@
 ---
 layout: post
-permalink: /about/index.html
+permalink: /cv/index.html
 title: CV
 tags: [cv, academic]
+image:
+  feature: pink-radio.jpg
 ---
 
 ### Current Position
