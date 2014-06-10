@@ -3,15 +3,20 @@ layout: post-light-feature
 image:
   feature: pink-radio.jpg
 ---
+<section class="article">
 
+<section class="article pad-top">
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 
-  <center><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></center>
-  <p class="author">
-    <center><span class="date" style="text-transform:uppercase" style="font-size:16px" style="font-weight:bold" style="color:#d9d9d9">{{ post.date | date: "%b %d, %Y" }}</center></span>
-  </p>
+        <header class="post-header">
+          <hgroup>
+            <h1>{{page.title}}</h1>
+            <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
+            <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+          </hgroup>
+        </header>
 
   <div class="content">
     {{ post.content }}
