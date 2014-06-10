@@ -28,6 +28,16 @@ ul {
   list-style: none;
 }
 
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
 :focus {
   outline: none;
 }
@@ -159,6 +169,10 @@ h6, .h6 {
   font-size: 12px;
 }
 
+blockquote, blockquote p {
+  font-size: 48px;
+}
+
 .archive input {
   font-size: 48px;
 }
@@ -206,6 +220,10 @@ h6, .h6 {
 
   .meta {
     font-size: 12px;
+  }
+
+  blockquote, blockquote p {
+    font-size: 24px;
   }
 
   .archive input {
@@ -274,10 +292,12 @@ small {
   background: #fffbd7;
 }
 
-blockquote, blockquote p, post. blockquote {
-	quotes: none;
-	color: #aeaeae;
-	text-align: right;
+blockquote, blockquote p {
+  font-style: italic;
+  line-height: 1.3em;
+  text-align: center;
+  color: #3c3c3c;
+  margin-bottom: 33px;
 }
 
 /*   Code Formatting    */
@@ -926,6 +946,10 @@ footer .social ul li:last-child {
 @media only screen and (max-width: 800px) {
   h1 {
     font-size: 48px;
+  }
+
+  blockquote, blockquote p {
+    font-size: 32px;
   }
 
   footer {

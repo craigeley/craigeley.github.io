@@ -2,7 +2,7 @@ title:            craig eley dot com
 tagline:          sound | science | technology
 description:      The internet home of craig eley.
 #Comment out url when working locally to resolve base urls correctly
-url: http://craigeley.github.io
+# url: http://craigeley.github.io
 
 # Owner/author information
 owner:
@@ -58,7 +58,7 @@ kramdown:
     coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink: /:month-:day-:year/:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

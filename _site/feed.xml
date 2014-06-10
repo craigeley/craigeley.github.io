@@ -3,39 +3,33 @@
 <title type="text">craig eley dot com</title>
 <subtitle type="text">sound | science | technology</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://craigeley.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://craigeley.github.io" />
-<updated>2014-06-10T13:47:57-04:00</updated>
-<id>http://craigeley.github.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-06-10T14:58:38-04:00</updated>
+<id>/</id>
 <author>
   <name>Craig Eley</name>
-  <uri>http://craigeley.github.io/</uri>
+  <uri>/</uri>
   <email>craig@craigeley.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Another Test]]></title>
-  <link rel="alternate" type="text/html" href="http://craigeley.github.io/posts/another%20test" />
-  <id>http://craigeley.github.io/posts/another test</id>
+  <title type="html"><![CDATA[A New Site]]></title>
+  <link rel="alternate" type="text/html" href="/06-10-2014/posts/another%20test" />
+  <id>/06-10-2014/posts/another test</id>
   <published>2014-06-10T00:00:00-04:00</published>
   <updated>2014-06-10T00:00:00-04:00</updated>
   <author>
     <name>Craig Eley</name>
-    <uri>http://craigeley.github.io</uri>
+    <uri></uri>
     <email>craig@craigeley.com</email>
   </author>
-  <content type="html">&lt;p&gt;This is the beginning of me writing something.&lt;/p&gt;
+  <content type="html">&lt;p&gt;It’s always a combination of exactly two things that make me want to update a website: 1) the development of a large or small life change, and 2) the desire to procrastinate from a larger and more scary task at hand. In this case, it was me finally being able to publicly announce that I’ll be working on &lt;a href=&quot;http://ttbook.org&quot;&gt;To the Best of Our Knowledge&lt;/a&gt; starting in September, and the fact that I have an essay due for a proposed book collection soon. With that in mind, I’m moving to this new set-up, which is powered by Jekyll and run from GitHub. I’ll be working on moving my old Tumblr posts into this format sometime over the next few days, once I can figure out how to get certain functions to work a litte better.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;As always, thanks for reading.&lt;/p&gt;
 
-&lt;p&gt;This is the rest of the thing.&lt;/p&gt;
-
-&lt;p&gt;This is an url image &lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/5/55/Benjamin_G_Bowden_-_Spacelander_Bicycle.jpg&quot; alt=&quot;Bike&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://craigeley.github.io/posts/another%20test&quot;&gt;Another Test&lt;/a&gt; was originally published by Craig Eley at &lt;a href=&quot;http://craigeley.github.io&quot;&gt;craig eley dot com&lt;/a&gt; on June 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/06-10-2014/posts/another%20test&quot;&gt;A New Site&lt;/a&gt; was originally published by Craig Eley at &lt;a href=&quot;&quot;&gt;craig eley dot com&lt;/a&gt; on June 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
