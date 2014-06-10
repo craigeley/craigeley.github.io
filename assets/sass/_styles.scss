@@ -52,11 +52,14 @@ small {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
-    line-height: 1.3em;
-    text-align: center;
-    color: lighten($black, .2);
-    margin-bottom: $lh;
+	margin: 1em 3em;
+	border-left: 2px solid #999;
+	padding-left: 1em;
+	font-size: 16px;
+	line-height: 32px;
+	font-family: {font:Body};
+	font-style: italic;
+	color: #aeaeae;
 }
 
 

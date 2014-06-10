@@ -41,7 +41,7 @@ future:      true
 highlights:  pygments
 markdown:    kramdown
 
-paginate: 2
+paginate: 10
 
 kramdown:
   auto_ids: true
