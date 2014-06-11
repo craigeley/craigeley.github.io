@@ -40,6 +40,8 @@ timezone:    America/New_York
 future:      true
 highlights:  pygments
 markdown:    kramdown
+kramdown:
+  input: GFM
 
 paginate: 10
 
