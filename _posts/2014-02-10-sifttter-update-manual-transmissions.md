@@ -13,7 +13,8 @@ Of course, there will always be gaps in a system like this, and, in my experienc
 
 1. **Via Text**: The first is to simply send IFTTT a text message. The beauty of this is that it’s platform neutral, and even works with “dumb” phones. This recipe should get you started:
 
-[![IFTTT Recipe: Sifttter: Text Manual Logbook Updates ](https://ifttt.com/view_embed_recipe/145588-sifttter-text-manual-logbook-updates)](https://ifttt.com/view_embed_recipe/145588-sifttter-text-manual-logbook-updates)
+[![IFTTT Recipe: Sifttter: Text Manual Logbook Updates
+](https://ifttt.com/recipe_embed_img/145588)](https://ifttt.com/view_embed_recipe/145588)
 
 2. **Via Drafts**: If you are on iOS, [@johnmullins](https://twitter.com/johnmullins) came up with an elegant solution using the Dropbox Actions feature of [Drafts](http://agiletortoise.com/drafts/). To get this going, start by creating a new Dropbox Actions in Settings. Point the Path option to your Sifttter folder, choose a “Predefined” file, and name it whatever you like. Then, in the code section, you should write `- [[date|%B %d, %Y at %I%M%p]] - [[draft]] @done` followed by a hard return. Here is what it should look like when you are all said and done:
 
