@@ -17,6 +17,8 @@ But in death, the dragons were able to appear more “lifelike” through the pr
 
 ![](http://images.library.amnh.org/digital/files/original/80eeb610fa24560bfe4159d7a89582cb.jpg)
 
+******
+
 [^1]: Gregg Mitman, “Cinematic Nature: Hollywood Technology, Popular Culture, and the American Museum of Natural History,” *Isis* 84.4 (1993): 643-644.
 
 
