@@ -31,7 +31,7 @@ Here is how this works:
 
 2. Create a plain text snippet in TextExpander that create your footnote timestamp syntax and then call your new AppleScript snippet:
 
-[^%y%1m%e%1H%1M]%snippet:;pgd%
+`[^%y%1m%e%1H%1M]%snippet:;pgd%`
 
 The portion “%snippet:;pgd%” will be replaced by whatever you decided to call the page down snippet.
 
