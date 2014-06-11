@@ -18,7 +18,7 @@ This new script creates the time stamp, pages down to the bottom of the document
 
 Here is how this works:
 
-1) Create an AppleScript snippet in TextExpander that will page down and paste the contents of the clipboard with a colon after it:
+1. Create an AppleScript snippet in TextExpander that will page down and paste the contents of the clipboard with a colon after it:
 
 	tell application "System Events" 
 	key code 125 using command down --this is "scroll to bottom" 
@@ -29,8 +29,7 @@ Here is how this works:
 	keystroke space
 	end tell
 
-
-2) Create a plain text snippet in TextExpander that create your footnote timestamp syntax and then call your new AppleScript snippet:
+2. Create a plain text snippet in TextExpander that create your footnote timestamp syntax and then call your new AppleScript snippet:
 
 [^%y%1m%e%1H%1M]%snippet:;pgd%
 
