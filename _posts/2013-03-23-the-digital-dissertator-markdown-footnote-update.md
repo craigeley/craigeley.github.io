@@ -29,6 +29,7 @@ Here is how this works:
 	keystroke space
 	end tell
 
+
 2) Create a plain text snippet in TextExpander that create your footnote timestamp syntax and then call your new AppleScript snippet:
 
 [^%y%1m%e%1H%1M]%snippet:;pgd%
