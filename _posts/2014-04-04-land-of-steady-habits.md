@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Land of Steady Habits
+title: The Land of Steady Habits
 date: '2014-04-04T10:00:32-04:00'
 tags:
 - literature
