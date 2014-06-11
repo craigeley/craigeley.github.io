@@ -1,9 +1,8 @@
 ---
 layout: post
-title: The “Guide-A-Phone,” the first audio tour for museums. American Museum of Natural
-  History, 1954.
+title: The “Guide-A-Phone”
 date: '2012-10-03T12:25:15-04:00'
-tags: []
+tags: [archives]
 tumblr_url: http://craigeley.com/post/32809137150/the-guide-a-phone-the-first-audio-tour-for
 ---
 
