@@ -37,6 +37,6 @@ Now, by using the keystroke “ffn,” a timestamp code down to the minute is us
 
 I’d love to hear your thoughts on this workflow in the comments, or answer any questions, or hear about other ways you’ve come up with to handle footnoting in MMD.
 
-**Update**: After originally writing this post, I came across Brett Terpstra’s [Markdown Toolkit](http://brettterpstra.com/projects/markdown-service-tools/). Among its many useful scripts in one that can scan your documents and make your footnotes unique. How does it work? Using a timestamp. Check it out and download everything [here](http://brettterpstra.com/projects/markdown-service-tools/)
+**Update**: After originally writing this post, I came across Brett Terpstra’s [Markdown Toolkit](http://brettterpstra.com/projects/markdown-service-tools/). Among its many useful scripts in one that can scan your documents and make your footnotes unique. How does it work? Using a timestamp. Check it out and download everything [here](http://brettterpstra.com/projects/markdown-service-tools/).
 
 [^1]: Eley, 1
