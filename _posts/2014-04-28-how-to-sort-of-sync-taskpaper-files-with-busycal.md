@@ -27,6 +27,8 @@ Would love to hear how (or if) this works for you on [Twitter](https://twitter.c
 
 Taskpaper to BusyCal Script: <https://gist.github.com/craigeley/11335910>
 
+********
+
 [^1]: I found the easiest way to do this is to set the sidebar view to [show dated to dos for the next year](http://d.pr/uheT). Then you can simply select all and delete them.
 
 
