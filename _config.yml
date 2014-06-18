@@ -1,21 +1,33 @@
 # Dependencies
-markdown:	kramdown
-pygments:	true
+markdown: kramdown
+highlights: null
 
 # Permalinks
 permalink: /:month-:day-:year/:categories/:title
 
 # Setup
-title:		craig eley dot com
-tagline:	'blog'
-description:	'My personal blog.'
-# url: http://craigeley.github.io
+
+title:  craig eley dot com
+tagline: 'blog'
+description: 'My personal blog.'
+
+url: http://craigeley.github.io
+
+owner:
+  name:           Craig Eley
+  avatar:         avatar.png
+  bio:            "Public Fellow, Radio Producer, Good Listener"
+  email:          craig@craigeley.com
+  twitter:        craigeley        
+  github:         craigeley       
+  instagram:      craigeley     
+  disqus:         craigeley
 
 author:
-  name:		'Craig Eley'
-  url:		https://craigeley.com
+  name: 'Craig Eley'
+  url: http://craigeley.github.io
 
-paginate:	5
+paginate: 5
 
 # Custom vars
 icon:		/assets/images/icon.png
@@ -42,8 +54,8 @@ menu:
   - title:	Blog
     url:	/#blog
     
-  - title:	About
-    url:	/about
+  - title:	Home
+    url:	/
     
 copyright:
   author:	Craig Eley
