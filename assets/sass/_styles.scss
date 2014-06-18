@@ -63,6 +63,7 @@ blockquote, blockquote p {
 sup {
 	vertical-align: super;
 	font-size: 0.8em;
+	font-style: regular;
 	padding-left: 5px;
 	line-height: 0;
 }
@@ -415,7 +416,7 @@ header.site-header nav {
             
             h1 {
                 font-size: $fs3;
-                font-style: italic;
+                font-style: normal;
             }
         }
         
@@ -463,7 +464,7 @@ header.site-header nav {
     }
     
     h1 {
-        font-style: italic;
+        font-style: normal;
     }
     
     h1, h2, h3, h4, h5 {

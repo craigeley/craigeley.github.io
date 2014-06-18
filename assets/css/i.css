@@ -256,6 +256,7 @@ blockquote, blockquote p {
 sup {
   vertical-align: super;
   font-size: 0.8em;
+  font-style: regular;
   padding-left: 5px;
   line-height: 0; }
 
@@ -582,7 +583,7 @@ header.site-header nav {
         transition: all 1s ease-in-out; }
       .archive-wrap .post-list li h1 {
         font-size: 32px;
-        font-style: italic; }
+        font-style: normal; }
     .archive-wrap .post-list .summary {
       font-size: 18px;
       line-height: 1.45em; }
@@ -613,7 +614,7 @@ header.site-header nav {
       color: #999999;
       margin-bottom: 16.5px; }
   .post h1 {
-    font-style: italic; }
+    font-style: normal; }
   .post h1, .post h2, .post h3, .post h4, .post h5 {
     padding-top: 16.5px;
     margin-bottom: 16.5px;
