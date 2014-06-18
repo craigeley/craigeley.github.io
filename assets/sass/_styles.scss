@@ -33,7 +33,7 @@ a:hover {
 em {
     padding: 1px 2px;
     border-radius: 2px;
-    background: #ffe8c0;
+    font-style: italic;
 }
 
 strong {
@@ -52,13 +52,20 @@ small {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
     line-height: 1.3em;
-    text-align: center;
+    padding-left: 0.5em;
+    font-style: italic;
+    border-left: 2px solid #999;
     color: lighten($black, .2);
     margin-bottom: $lh;
 }
 
+sup {
+	vertical-align: super;
+	font-size: 0.8em;
+	padding-left: 5px;
+	line-height: 0;
+}
 
 /*   Code Formatting    */
 
