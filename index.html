@@ -1,51 +1,35 @@
 ---
-layout: post
-image:
-  feature: pink-radio.jpg
+layout: default
+title: Home
 ---
+
+<header class="{% if page.dark %}dark{% else %}clean{% endif %}" style="background-image: url({% if page.image %}{{ page.image }}{% else %}{{ site.cover }}{% endif %});{% if page.background_position %} background-position: {{ page.background_position }};{% endif %}height: 100%;">
+	{% include top.html %}
+	<div id="post-info">
+		<center><h3>craig eley dot com</h3></center>
+	</div>
+	<div id="nav-icon" style="bottom: 60px;">
+		<a class="scroll" data-speed="1000" href="#blog"><span class="genericon genericon-expand"></span></a>
+	</div>
+</header>
+<div id="article">
 <a name="blog"></a>
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-        <header class="post-header">
-          <hgroup>
-            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-            <p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
-            <p class="intro">{% if post.description %}{{ post.description }}{% else %}{{ post.tagline }}{% endif %}</p>
-          </hgroup>
-        </header>
-  <div class="content">
-    {{ post.content }}
-    <a class="share" href="{{ post.url | prepend: site.url }}">Link</a></br>
-    <a class="share" href="{{ post.url | prepend: site.url }}#comments">Talk</a></br>
-    <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ post.title }}&quot;%20{{ site.url }}{{ post.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Tweet</a><br>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
-{% endfor %}
-
-<!-- Pagination links -->
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}#blog">&laquo; Previous</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}#blog">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}#blog">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}#blog">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
+	{% for post in paginator.posts %}
+		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<span class="post-date">{{ post.date | date_to_long_string }}</span>
+		  <div class="content">{{ post.content }}</div>
+	{% endfor %}
 </div>
-{% endif %}
+<nav class="pagination" role="navigation">
+	{% if paginator.next_page %}
+		<a class="newer-posts" href="/page{{paginator.next_page}}#blog">&larr; Older posts</a>
+	{% endif %}
+	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.previous_page %}
+		{% if paginator.page == 2 %}
+			<a class="older-posts" href="/#blog">Newer posts &rarr;</a>
+		{% else %}
+			<a class="older-posts" href="/page{{paginator.previous_page}}#blog">Newer posts &rarr;</a>
+		{% endif %}
+	{% endif %}
+</nav>

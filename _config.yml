@@ -1,69 +1,52 @@
-title:            craig eley dot com
-tagline:          sound | science | technology
-description:      The internet home of craig eley.
-#Comment out url when working locally to resolve base urls correctly
-url: http://craigeley.github.io
+# Dependencies
+markdown:	kramdown
+pygments:	true
 
-# Owner/author information
-owner:
-  name:           Craig Eley
-  avatar:         avatar.png
-  bio:            "Public Fellow, Radio Producer, Good Listener"
-  email:          craig@craigeley.com
-  twitter:        craigeley        
-  github:         craigeley       
-  instagram:      craigeley     
-  disqus:         craigeley
-  location:       "State College, PA"
-  # Plug in your disqus shortname!
-
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Blog
-    url: /index.html#blog
-  - title: CV
-    url: /cv
-  - title: Writing
-    url: /teaching
-  - title: Radio
-    url: /radio
-  - title: Teaching
-    url: /teaching
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter:  false
-markdown:    kramdown
-kramdown:
-  input: GFM
-
-paginate: 10
-
-gems:
-  - jekyll-redirect-from
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# Permalinks
 permalink: /:month-:day-:year/:categories/:title
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+# Setup
+title:		craig eley dot com
+tagline:	'blog'
+description:	'My personal blog.'
+# url: http://craigeley.github.io
+
+author:
+  name:		'Craig Eley'
+  url:		https://craigeley.com
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/images/pink-radio.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/craigeley
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/craigeley
+    desc:	Fork me on github
+
+  - icon:	instagram
+    url:	https://instagram.com/craigeley
+    desc:	Follow me on Instagram
+
+  - icon:	feed
+    url:	http://craigeley.github.io/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Blog
+    url:	/#blog
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Craig Eley
+  url:		http://craigeley.com
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
