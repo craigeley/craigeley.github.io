@@ -26,6 +26,10 @@ article: true
 <div id="article">
 	{{ content }}
 
+<div id="base-icon">
+<center><a href="http://craigeley.github.io"><span class="genericon genericon-home"></span></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}"><span class="genericon genericon-twitter"></span></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/{{ post.url }}/#comments"><span class="genericon genericon-chat"></span></a></center>
+</div>
+
 <a name="comments"></a>
       <aside class="disqus">
         <div id="disqus_thread"></div>
@@ -43,10 +47,6 @@ article: true
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       </aside>
-
-<div id="base-icon">
-<center><a href="{{ site.url }}"><span class="genericon genericon-home"></span></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}"><span class="genericon genericon-twitter"></span></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}"><span class="genericon genericon-chat"></span></a></center>
-</div>
 </div>
 
 <script src="/assets/js/smooth-scroll.js"></script>
