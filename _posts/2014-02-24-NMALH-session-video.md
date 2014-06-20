@@ -8,7 +8,7 @@ tags:
 redirect_from: /post/77703955136/back-in-december-i-went-to-the-new-media-in/
 ---
 
-<iframe src="//player.vimeo.com/video/87372541" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<center><iframe src="//player.vimeo.com/video/87372541" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 Back in December, I went to the [New Media in American Literary History Symposium][1] hosted by Northeastern and organized by the seemingly indefatigable [Ryan Cordell][2] and Rhae Lynn Barnes, who runs [US History Scene][3].
 
