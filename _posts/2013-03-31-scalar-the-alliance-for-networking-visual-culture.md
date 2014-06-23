@@ -10,5 +10,4 @@ redirect_from: /post/46814883822/scalar-the-alliance-for-networking-visual-cultu
 
 > [Scalar](http://scalar.usc.edu/)
 
-The long-anticipated Scalar platform opened for public registration recently—and I’m really excited to check it out, make something, and see what others will do with it.
-
+The long-anticipated Scalar platform opened for public registration recently—and I'm really excited to check it out, make something, and see what others will do with it.
