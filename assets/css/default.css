@@ -368,6 +368,7 @@ pre code {
 	height: 20px;
 	width: 20px;
 	opacity: 1;
+	padding: 0px;
 }
 
 .menu + input {
