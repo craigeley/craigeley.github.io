@@ -8,7 +8,7 @@ permalink: /:month-:day-:year/:categories/:title
 # Setup
 
 title:  craig eley dot com
-tagline: 'blog'
+tagline: 'sound | nature | technology'
 description: 'My personal blog.'
 
 url: http://craigeley.github.io
@@ -52,7 +52,7 @@ social:
     
 menu:
   - title:	Blog
-    url:	/#blog
+    url:	/#article
     
   - title:	Home
     url:	/

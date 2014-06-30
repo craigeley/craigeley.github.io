@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>craig eley dot com</title>
+ <link href="http://craigeley.github.io/atom.xml" rel="self"/>
+ <link href="http://craigeley.github.io/"/>
+ <updated>2014-06-30T11:16:49-04:00</updated>
+ <id>http://craigeley.github.io</id>
+ <author>
+   <name>Craig Eley</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>A New Site</title>
+   <link href="http://craigeley.github.io/06-10-2014/posts/a-new-site"/>
+   <updated>2014-06-10T00:00:00-04:00</updated>
+   <id>http://craigeley.github.io/06-10-2014/posts/a-new-site</id>
+   <content type="html">&lt;p&gt;It’s always a combination of exactly two things that make me want to update my website: 1) the development of a large or small life change, and 2) the desire to procrastinate from a larger and scarier task at hand. In this case, it was me finally being able to publicly announce that I’ll be working on &lt;a href=&quot;http://ttbook.org&quot;&gt;To the Best of Our Knowledge&lt;/a&gt; starting in September combined with the fact that I have an essay due for a proposed book collection soon. With that in mind, I’m planning on moving to this new set-up, which is powered by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, styled by &lt;a href=&quot;https://twitter.com/twnsndco&quot;&gt;Cole Townsend&lt;/a&gt;’s &lt;a href=&quot;http://jekyll.gtat.me/about/&quot;&gt;Balzac theme&lt;/a&gt;, and run from &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;. There are still a ton of kinks to work out, so in the meantime the main action will still be over on &lt;a href=&quot;http://craigeley.com/&quot;&gt;Tumblr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As always, thanks for reading.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Link Roundup: Social Sound</title>
+   <link href="http://craigeley.github.io/06-05-2014/link-roundup-social-sound"/>
+   <updated>2014-06-05T10:00:11-04:00</updated>
+   <id>http://craigeley.github.io/06-05-2014/link-roundup-social-sound</id>
+   <content type="html">&lt;p&gt;Making the rounds this week was &lt;a href=&quot;https://medium.com/message/sound-and-memory-168ea6b72c7b&quot;&gt;this
+aricle&lt;/a&gt; on why
+we need “an Instragram for sound,” which reminded me of &lt;a href=&quot;http://thesocietypages.org/cyborgology/2013/12/20/reach-out-and-touch-on-audio-social-media/&quot;&gt;this
+article&lt;/a&gt;
+by &lt;a href=&quot;https://twitter.com/doctaj&quot;&gt;Robin James&lt;/a&gt; on why we probably won’t
+get one. And then there was &lt;a href=&quot;http://digg.com/originals/why-audio-never-goes-viral&quot;&gt;this
+article&lt;/a&gt; about why
+sound doesn’t go viral in the first place.&lt;/p&gt;
+
+&lt;p&gt;I have some thoughts on all this which I haven’t fully put together yet, but
+by way of personal experience I will say that I used
+&lt;a href=&quot;https://audioboo.fm/&quot;&gt;Audioboo&lt;/a&gt; for about a week before I abandoned it…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ACLS Public Fellowship</title>
+   <link href="http://craigeley.github.io/06-03-2014/acls-public-fellowship"/>
+   <updated>2014-06-03T12:18:05-04:00</updated>
+   <id>http://craigeley.github.io/06-03-2014/acls-public-fellowship</id>
+   <content type="html">&lt;p&gt;I’m happy to finally announce that I’ve been named a 2014 &lt;a href=&quot;http://www.acls.org/research/publicfellows.aspx?id=7006&quot;&gt;ACLS Public
+Fellow&lt;/a&gt;. For
+the next two years, I’ll be working with &lt;a href=&quot;http://ttbook.org&quot;&gt;To the Best of Our
+Knowledge&lt;/a&gt;, an arts and humanities radio show
+produced by &lt;a href=&quot;http://www.wpr.org/&quot;&gt;Wisconsin Public Radio&lt;/a&gt; and
+distributed nationally by &lt;a href=&quot;http://www.pri.org/&quot;&gt;PRI&lt;/a&gt;. If you’re a reader
+of this blog and haven’t heard the show—or haven’t checked it on out in
+a while—please do. (You can grab the podcasts in iTunes
+&lt;a href=&quot;https://itunes.apple.com/us/podcast/pri-to-best-our-knowledge/id471896367?mt=2&quot;&gt;here&lt;/a&gt;.)
+Each hour-long show explores a theme through in-depth interviews as well
+as some shorter segments.&lt;/p&gt;
+
+&lt;p&gt;Over the last year or so, the producers of the program have been
+&lt;a href=&quot;http://www.current.org/2014/04/to-the-best-of-our-knowledge-a-weekend-staple-from-wisconsin-gets-makeover/&quot;&gt;“rethinking the show from top to
+bottom”&lt;/a&gt;,
+and I’m excited to jump in and be a part of that process in my role as
+digital producer. I’ll be mostly working on online and other
+non-broadcast projects to start, so keep your eyes on this space and the
+&lt;a href=&quot;http://ttbook.org&quot;&gt;TTBOOK website&lt;/a&gt; for more details as they unfold. I
+officially start in September.&lt;/p&gt;
+
+&lt;p&gt;As excited as I am for this new opportunity, I’m equally sad to be
+leaving Penn State and the &lt;a href=&quot;http://iah.psu.edu/&quot;&gt;IAH&lt;/a&gt;, which has been an
+incredibly supportive home for the last year. This will always be the
+place that gave me my first job, and I’ll forever be grateful to
+&lt;a href=&quot;https://twitter.com/MichaelBerube1&quot;&gt;Michael Bérubé&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/HesterBlum&quot;&gt;Hester
+Blum&lt;/a&gt; and all of the great people I’ve
+met here in State College.&lt;/p&gt;
+
+&lt;p&gt;Still: &lt;a href=&quot;http://archives.library.wisc.edu/uw-archives/exhibits/onwisconsin/songcontroversies.html&quot;&gt;On Wisconsin!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Uncube 21: Acoustics</title>
+   <link href="http://craigeley.github.io/05-28-2014/uncube-21-acoustics"/>
+   <updated>2014-05-28T15:42:16-04:00</updated>
+   <id>http://craigeley.github.io/05-28-2014/uncube-21-acoustics</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.uncubemagazine.com/magazine-21-12784433.html#!/page1&quot;&gt;Uncube 21: Acoustics&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I had never heard of &lt;a href=&quot;http://www.uncubemagazine.com/index.html&quot;&gt;uncube magazine&lt;/a&gt; until their most recent &lt;a href=&quot;http://www.uncubemagazine.com/magazine-21-12784433.html#!/page1&quot;&gt;issue on acoustics&lt;/a&gt; came across my desk, but I love it: it’s a beautiful (if a bit confusing to navigate) combination of words, sounds, and images. Features an article by David Byrne, if you need some enticement.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dragons at the Zoo</title>
+   <link href="http://craigeley.github.io/05-27-2014/dragons-at-the-zoo"/>
+   <updated>2014-05-27T10:00:18-04:00</updated>
+   <id>http://craigeley.github.io/05-27-2014/dragons-at-the-zoo</id>
+   <content type="html">&lt;p&gt;Just a few weeks ago I posted a photo of &lt;a href=&quot;http://craigeley.com/post/85524807267/about-two-weeks-ago-the-american-museum-of&quot;&gt;Douglas Burden&lt;/a&gt;, nature filmmaker and museum display innovator. Perhaps the single event that launched Burden to fame was a trip he took to Java where he successfully captured two live Komodo dragons and brought them back to the Bronx Zoo in 1927.&lt;/p&gt;
+
+&lt;p&gt;Then, over the weekend, a headline catches my eye: “&lt;a href=&quot;http://www.nytimes.com/2014/05/24yregion/dragons-return-to-the-bronx-zoo.html?hpw&amp;amp;rref=science&amp;amp;_r=0&quot;&gt;Dragons Return to the Bronx Zoo&lt;/a&gt;” (NYTimes link; might need subscription). It appears as if they have some new specimens—siblings, in fact. Conveniently, the article forgets to mention that Burden’s original captors didn’t fare so well. According to Gregg Mitman:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The captured dragons were donated to the Bronx zoo, where attendance was said to have increased by thirty thousand people a day…Unfortunately, the dragons did not live long at the zoo, and the “lethargic, deflated captive” failed to give “any impression of his aggressive, alert appearance in his wild home.”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But in death, the dragons were able to appear more “lifelike” through the processes of taxidermy and film. Burden donated the animals to the American Museum of Natural History, where they created a taxidermic “habitat group,” and played some of Burden’s films beside the display. It was likely the first time that films accompanied a natural history museum display—though the films were silent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://images.library.amnh.org/digital/files/original/80eeb610fa24560bfe4159d7a89582cb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Gregg Mitman, “Cinematic Nature: Hollywood Technology, Popular Culture, and the American Museum of Natural History,” &lt;em&gt;Isis&lt;/em&gt; 84.4 (1993): 643-644. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sound Systems and Animal Death</title>
+   <link href="http://craigeley.github.io/05-23-2014/horse-dies-at-churchill-sound-system-blamed"/>
+   <updated>2014-05-23T10:49:46-04:00</updated>
+   <id>http://craigeley.github.io/05-23-2014/horse-dies-at-churchill-sound-system-blamed</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;A heartbroken Wirth later said the horse was startled by what Wirth thinks was the sound of a starting gate bell coming from a commercial on Churchills massive new video board. The system includes 750 speakers. “We teach horses to break from that,” he said. “And you’ve got it on a loud speaker that everybody in a two-city block can hear. Well, what’s she going to do? She thinks shes supposed to take off. And thats what she did. And when she did, she lunged and she lost her balance and went down.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That’s from a &lt;a href=&quot;http://espn.go.com/horse-racing/story/_/id/10971859ever-tell-lynda-dies-freak-fall-churchill-downs&quot;&gt;devastating story&lt;/a&gt; from ESPN this morning on how a loud sound may have been responsible for the death of a horse. Theres a lot to consider hereincluding the ethics of horse racing itselfbut it reaffirms for me how much there is to be done at the intersection of sound studies and animal studies from both the sciences and the humanities.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to (Sort of) Sync TaskPaper files with BusyCal</title>
+   <link href="http://craigeley.github.io/04-28-2014/how-to-sort-of-sync-taskpaper-files-with-busycal"/>
+   <updated>2014-04-28T10:00:20-04:00</updated>
+   <id>http://craigeley.github.io/04-28-2014/how-to-sort-of-sync-taskpaper-files-with-busycal</id>
+   <content type="html">&lt;p&gt;Recently I switched my task management workflow from Apple’s Reminders into a Taskpaper system that uses a &lt;a href=&quot;http://craigeley.com/post/80876964138unning-multiple-instances-of-nvalt&quot;&gt;unique instance of nvALT&lt;/a&gt; when I’m at my computer, and &lt;a href=&quot;https://itunes.apple.com/us/app/listacular-for-dropbox-rapid/id624606571?mt=8&quot;&gt;Listacular&lt;/a&gt; when I’m on the go. While I like this arrangement, I had really gotten used to being able to view tasks in a calendar layout so I could easily see what was coming up next. It’s not hard to make a master list of upcoming tasks from your Taskpaper files, but then you end up with just that: another list.&lt;/p&gt;
+
+&lt;p&gt;After some Googling I saw that BusyCal has a &lt;a href=&quot;https://support.busymac.com/help/21535-busycal-url-handler&quot;&gt;URL handler&lt;/a&gt;, making it possible to pass arguments into a string and create new entries from them. I wrote a &lt;a href=&quot;https://gist.github.com/craigeley/11335910&quot;&gt;rough script&lt;/a&gt; that reads from Taskpaper-formatted files and sends them over to BusyCal. There are some severe limitations here, including no way to account for &lt;code&gt;@tags&lt;/code&gt; (which I don’t use anyway), and no provision for duplicate entries—this will add entries every time, even you already have identical entries in BusyCal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Set-up&lt;/strong&gt;: This is based on storing multiple Taskpaper files in a single folder. Those files should have the same names as your BusyCal Reminders lists.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/liWQ+&quot; alt=&quot;Like so&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have that established, you can run the script, which should be pretty self-explanatory. It can handle lines with and without formatted due dates. You’ll need to change the directory in line 8, and you can change your file extension to whatever you use in lines 8 and 20.&lt;/p&gt;
+
+&lt;p&gt;Obviously, this is not a sync solution—it only works one way, and I think it works best for simply viewing your upcoming items. So when I make changes to my Taskpaper files and re-run it, I literally delete all of the BusyCal todos first.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;That being said, if you do make changes in BusyCal (like dragging items to change their due dates) I have &lt;em&gt;sort of&lt;/em&gt; figured out a way to bring those changes back to your Taskpaper files, but it obliterates any formatting, headers, notes, etc. in the original files—basically anything that is not an explicit to-do item. Still, if you also want to give that a try, you can use this &lt;a href=&quot;https://gist.github.com/craigeley/9469798&quot;&gt;Reminders to Taskpaper Applescript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Would love to hear how (or if) this works for you on &lt;a href=&quot;https://twitter.com/craigeley&quot;&gt;Twitter&lt;/a&gt; or on the Gists.&lt;/p&gt;
+
+&lt;p&gt;Taskpaper to BusyCal Script: &lt;a href=&quot;https://gist.github.com/craigeley/11335910&quot;&gt;https://gist.github.com/craigeley/11335910&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I found the easiest way to do this is to set the sidebar view to &lt;a href=&quot;http://d.pr/uheT&quot;&gt;show dated to dos for the next year&lt;/a&gt;. Then you can simply select all and delete them. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Learning</title>
+   <link href="http://craigeley.github.io/04-10-2014/on-learning"/>
+   <updated>2014-04-10T10:00:20-04:00</updated>
+   <id>http://craigeley.github.io/04-10-2014/on-learning</id>
+   <content type="html">&lt;p&gt;“You literally cannot learn when you are scared,” Dr. Kurt Fristrup told my students on Tuesday. He was talking about evolutionary biology, but also about being a student—both in college and beyond. Kurt visited my class to give a talk about the effects of noise on animals, but in his introductory remarks, he spoke about how he got to this point in his life as the senior scientist in the &lt;a href=&quot;http://www.nature.nps.gov/sound_night/&quot;&gt;Natural Sounds and Night Skies&lt;/a&gt; division of the National Park Service. As &lt;a href=&quot;http://www.nature.nps.gov/sound_night/bios.cfm&quot;&gt;his bio&lt;/a&gt; makes clear, he has worked several different jobs in several distinct scientific fields.&lt;/p&gt;
+
+&lt;p&gt;I’m paraphrasing here, but in essence, he told the class that the best way to go through life is not to plan for a specific career, but to plan for the futures you cannot yet imagine. He said the best things you can learn are how to be a quick learner and how to communicate clearly. From there almost anything is possible, he argued, no matter if your major is chemistry or comparative lit. It was as direct and moving and meaningful an argument for the humanities as I’ve heard recently—and I couldn’t agree more.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Land of Steady Habits</title>
+   <link href="http://craigeley.github.io/04-04-2014/land-of-steady-habits"/>
+   <updated>2014-04-04T10:00:32-04:00</updated>
+   <id>http://craigeley.github.io/04-04-2014/land-of-steady-habits</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://mirandabw.com/wp-content/uploads/2014/04/TedThompsonLand-of-Steady-Habits-cover.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My friend Ted Thompson’s debut novel came out last week, and I can’t believe I have yet to mention it here. For starters, it’s a beautifully written and deeply moving portrait of suburban American life. But it also has some serious bite: it’s a novel that asks really timely questions about whether or not it is even possible to live an ethical and satisfying life while working within the financial system. I’m looking forward to teaching it some day—hopefully in an American studies course, where it would be perfect in a unit on the suburbs, on whiteness and masculinity, or on the financial crisis, among others. Really highly recommended.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sifttter Update: The Date Update</title>
+   <link href="http://craigeley.github.io/02-26-2014/sifttter-update-the-date-update"/>
+   <updated>2014-02-26T10:00:17-05:00</updated>
+   <id>http://craigeley.github.io/02-26-2014/sifttter-update-the-date-update</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://gist.github.com/craigeley/8301817&quot;&gt;Sifttter&lt;/a&gt; has always been about “set it and forget it” use—running silently every single night with minimal fuss and zero user interaction. But &lt;em&gt;by far&lt;/em&gt; the most common request I’ve gotten is to easily create entries for different dates. There are a ton of reasons you would want to do this, especially if your primary computer is a laptop that might be closed or off at the time the script is scheduled to run. I would kludge this by force-changing my computer’s date, in part because I wasn’t confident in my ability to code a more complex date range function.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&quot;https://twitter.com/fofr&quot;&gt;Paul Hayes&lt;/a&gt;, who Tweeted at me two weeks ago to show me how he had modified Sifttter to create straightforward Markdown files over user-specified date ranges. You can see his super useful script &lt;a href=&quot;https://gist.github.com/fofr/8922295&quot;&gt;here&lt;/a&gt;. I added Paul’s elegant solution for command-line date ranges so that you can generate nice Day One entries for any old day that you choose. Here are the options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code&gt;-d, --date DATE,   &#39;Date to generate - Any parseable date string&#39;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;-s, --start START, &#39;Start date - Use with end to generate a range of dates&#39;&lt;/code&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;-e, --end END,     &#39;End date - Use with start to generate a range of dates&#39;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So a potential use would look like &lt;code&gt;ruby /path/to/sifttter.rb -s &quot;2014-02-01&quot; -e &quot;2014-02-26&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve used this occasion to bump Sifttter to version 1.5, which was a totally arbitrary choice. Honestly, this improves the use-cases for Sifttter so dramatically it feels like a 2.0. I’m glad I’m not an actual software developer who has to worry about that sort of thing.&lt;/p&gt;
+
+&lt;p&gt;Good luck everyone, and happy logging—let me know if something breaks or goes terribly wrong on your end. Download the script &lt;a href=&quot;https://gist.github.com/craigeley/8301817&quot;&gt;here&lt;/a&gt;, and read the original post about how to set things up &lt;a href=&quot;http://craigeley.com/post/72565974459/sifttter-an-ifttt-to-day-one-logger&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NMALH Session Video</title>
+   <link href="http://craigeley.github.io/02-24-2014/NMALH-session-video"/>
+   <updated>2014-02-24T10:00:13-05:00</updated>
+   <id>http://craigeley.github.io/02-24-2014/NMALH-session-video</id>
+   <content type="html">&lt;center&gt;&lt;iframe src=&quot;//player.vimeo.com/video/87372541&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
+
+&lt;p&gt;Back in December, I went to the &lt;a href=&quot;http://www.northeastern.edu/nulab/nmalh/&quot;&gt;New Media in American Literary History Symposium&lt;/a&gt; hosted by Northeastern and organized by the seemingly indefatigable &lt;a href=&quot;http://ryan.cordells.us/&quot;&gt;Ryan Cordell&lt;/a&gt; and Rhae Lynn Barnes, who runs &lt;a href=&quot;http://www.ushistoryscene.com/&quot;&gt;US History Scene&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Despite “literary” being in the title of the event, there were a handful of us there working on audio, and we were lucky enough to have Lisa Gitelman serve as the moderator and discussant on our panel. The event was live-streamed, but if you missed it then, the good folks at the &lt;a href=&quot;http://www.northeastern.edu/nulab/&quot;&gt;NULab&lt;/a&gt; have recently posted &lt;a href=&quot;https://www.youtube.com/playlist?list=PLXHAxVqAb4oJAnbpkPHT96VJO5wHsJF4H&quot;&gt;all of the sessions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This isn’t necessarily my best work, but it is the first time I formally presented on the idea of “natural history media,” which has been really helpful as I frame out my current book project (which might be titled &lt;em&gt;Hearing Natural History&lt;/em&gt;). At this point I’m pretty used to hearing the sound of my own voice, but this video was pretty challenging to get through—and I probably won’t read my notes from my phone in future presentations. Ah well.&lt;/p&gt;
+
+&lt;p&gt;Anyway: you can (and should!) see my presentation in the context of &lt;a href=&quot;https://www.youtube.com/watch?v=8KAhkD844H0&amp;amp;index=9&amp;amp;list=PLXHAxVqAb4oJAnbpkPHT96VJO5wHsJF4H&quot;&gt;the full audio roundtable&lt;/a&gt; and then watch &lt;a href=&quot;https://www.youtube.com/playlist?list=PLXHAxVqAb4oJAnbpkPHT96VJO5wHsJF4H&quot;&gt;the rest of the symposium&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sifttter Update: Manual Transmissions</title>
+   <link href="http://craigeley.github.io/02-10-2014/sifttter-update-manual-transmissions"/>
+   <updated>2014-02-10T11:04:00-05:00</updated>
+   <id>http://craigeley.github.io/02-10-2014/sifttter-update-manual-transmissions</id>
+   <content type="html">&lt;p&gt;Over the last few weeks I’ve gotten a lot of positive feedback and suggestions for &lt;a href=&quot;http://craigeley.com/post/72565974459/sifttter-an-ifttt-to-day-one-logger&quot;&gt;Sifttter&lt;/a&gt;, my DiY-via-&lt;a href=&quot;https://twitter.com/ttscoff&quot;&gt;@ttscoff&lt;/a&gt; automated system to create Day One entries. And it has also taken on a life of it’s own: there are now lots of new recipes that people have built to supplement my original handful, and you can find them all in one place by &lt;a href=&quot;https://ifttt.comecipes/search?q=sifttter&amp;amp;ac=false&quot;&gt;searching IFTTT for Sifttter&lt;/a&gt;. You can now bring Facebook, Github, Jawbone, Pocket, Instagram, and a few others into your daily logs.&lt;/p&gt;
+
+&lt;p&gt;Of course, there will always be gaps in a system like this, and, in my experience, once you start logging you want to log more. So people have been asking about ways to easily enter items into the system manually. I think there are three really convenient ways to do this, two for your phone (which I almost always have with me) and one for your desktop.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Via Text&lt;/strong&gt;: The first is to simply send IFTTT a text message. The beauty of this is that it’s platform neutral, and even works with “dumb” phones. This recipe should get you started:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/145588&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/145588&quot; alt=&quot;IFTTT Recipe: Sifttter: Text Manual Logbook Updates
+&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Via Drafts&lt;/strong&gt;: If you are on iOS, &lt;a href=&quot;https://twitter.com/johnmullins&quot;&gt;@johnmullins&lt;/a&gt; came up with an elegant solution using the Dropbox Actions feature of &lt;a href=&quot;http://agiletortoise.com/drafts/&quot;&gt;Drafts&lt;/a&gt;. To get this going, start by creating a new Dropbox Actions in Settings. Point the Path option to your Sifttter folder, choose a “Predefined” file, and name it whatever you like. Then, in the code section, you should write &lt;code&gt;- [[date|%B %d, %Y at %I%M%p]] - [[draft]] @done&lt;/code&gt; followed by a hard return. Here is what it should look like when you are all said and done:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/zBjV+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Via Alfred&lt;/strong&gt;: If you’re using &lt;a href=&quot;http://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; (and if you use a Mac, you should be), then you can create entries directly via a few keystrokes. I’ve just slightly modified a workflow created by the people who make Drafts designed to mimic the “Append to Dropbox” action as seen in #2. Read about it on their website &lt;a href=&quot;http://agiletortoise.com/blog/2013/03/27/mimic-drafts-append-to-dropbox-using-alfred-on-a-mac/&quot;&gt;here&lt;/a&gt;, and then download my modified copy here:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://d.pr/9uFG&quot;&gt;Sifttter Alfred Workflow&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cleaning Up Markdown Footnotes</title>
+   <link href="http://craigeley.github.io/01-29-2014/cleaning-up-markdown-footnotes"/>
+   <updated>2014-01-29T09:00:22-05:00</updated>
+   <id>http://craigeley.github.io/01-29-2014/cleaning-up-markdown-footnotes</id>
+   <content type="html">&lt;p&gt;Just a quick update to an &lt;a href=&quot;/post/46089397285/the-digital-dissertator-markdown-footnote-update&quot;&gt;old post&lt;/a&gt; on Markdown footnotes.&lt;/p&gt;
+
+&lt;p&gt;I do all of my writing in Markdown, from these blog posts to &lt;a href=&quot;/post/72447244823ew-in-print-making-them-talk-animals-sound-and&quot;&gt;academic papers&lt;/a&gt;. As I’ve &lt;a href=&quot;/post/45896860184/the-digital-dissertator-academic-writing-and&quot;&gt;written before&lt;/a&gt;, one of the trickiest things I find about academic writing in Markdown is footnoting. My solution—outlined &lt;a href=&quot;/post/46089397285/the-digital-dissertator-markdown-footnote-update&quot;&gt;here&lt;/a&gt;—is to use &lt;a href=&quot;http://smilesoftware.com/TextExpander/&quot;&gt;TextExpander&lt;/a&gt; to create timestamps and then page down to post them at the bottom. It works great, except for the fact that to engage the snippet (in my case “;ffn”) you have to leave a space after the end of the sentence, thus creating a gap before your footnotes.&lt;/p&gt;
+
+&lt;p&gt;To clean all of those up in one fell swoop, I wrote a super simple service that will do it for you using &lt;code&gt;sed&lt;/code&gt; and &lt;code&gt;grep&lt;/code&gt; searching. You can download it &lt;a href=&quot;http://d.prToW&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even more interestingly, I learned that &lt;a href=&quot;http://fletcherpenney.net/multimarkdown/&quot;&gt;MMD4&lt;/a&gt;—which is included by default in &lt;a href=&quot;http://!g&quot; title=&quot;Marked2 app&quot;&gt;Marked 2&lt;/a&gt;—features a new syntax for inline footnoting: simply adding &lt;code&gt;[^text to be footnoted]&lt;/code&gt; to the end of a sentence. I can see this being super useful for certain short-form projects, though I still like to look at all my links at the bottom to see if a sources has been cited multiple times, &lt;em&gt;ibid&lt;/em&gt; usage, etc.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Inspiration for the Desktop Computer? The Telephone</title>
+   <link href="http://craigeley.github.io/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone"/>
+   <updated>2014-01-27T09:00:00-05:00</updated>
+   <id>http://craigeley.github.io/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone</id>
+   <content type="html">&lt;p&gt;In his &lt;a href=&quot;https://www.dukeupress.edu/MP3/&quot;&gt;recent book&lt;/a&gt; on the history of the mp3, Jonathan Sterne argues that sound technologies—especially the telephone—played a critical role in the development of digital technologies. Telephony is “central” to digital history, he writes, “as an industry, as a set of practices, as an aesthetic field, and as a medium.”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; He goes on to explain how the telephonic research impacted sound recording:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Each major technical iteration of sound recording made use of telephone research: the first phonographs were built in labs funded by telephonic (and telegraphic) research; the first electrical recording and playback technologies were borrowed from innovations in telephone systems in the 1920s; and digital audio recording and playback also used concepts that emerged from AT&amp;amp;T’s research wing, Bell Labs, beginning in the 1920s.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This weekend, I was surprised to learn that the idea of the telephone was also central to the development of the desktop computer. On Saturday, &lt;em&gt;Time&lt;/em&gt; magazine debuted a &lt;a href=&quot;http://techland.time.com/2014/01/25/steve-jobs-mac/&quot;&gt;previously unseen video&lt;/a&gt; of Steve Jobs introducing the Macintosh to the Boston Computer Society on January 30, 1984. In it, Jobs explicitly says that the idea for a desktop computer was inspired by the telephone. Around the 12-minute mark of the vide, Jobs says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We look at the telephone and we’re really impressed with the telephone, because it was the first and really the only desk appliance. To be a desk appliance you have to do something really useful, and you have to be really easy to use so people don’t have to spend a lot of time learning how to use this thing, and you have to be really cheap. We don’t think there has been a desk appliance since the telephone. And what we want to is make Macintosh the second desk appliance.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the article that accompanies the video, &lt;a href=&quot;https://twitter.com/harrymccracken&quot;&gt;Harry McCracken&lt;/a&gt; notes that this is a metaphor that Jobs expanded upon in a later interview with &lt;em&gt;Playboy&lt;/em&gt;, comparing IBM to the telegraph and the Mac to the telephone:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[The telephone] was a breakthrough, because people already knew how to use it. It performed the same basic function [as the telegraph], but with radical ease of use. And in addition to just letting you type in the words or click in the words, it let you sing. It let you intone your sentences to really get your meaning across.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;McCracken somewhat dismissively labels these statements “hyper-dramatic” and “self-serving,” but I think they point to the deep relationship between sound and digital technologies—a relationship that perhaps goes even deeper than we thought.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Jonathan Sterne, &lt;em&gt;MP3: The Meaning of a Format&lt;/em&gt; (Durham: Duke University Press, 2012), 2.   &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Ibid.&lt;/em&gt;, 3. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beyond Vietnam</title>
+   <link href="http://craigeley.github.io/01-20-2014/a-nation-that-continues-year-after-year-to-spend"/>
+   <updated>2014-01-20T10:02:00-05:00</updated>
+   <id>http://craigeley.github.io/01-20-2014/a-nation-that-continues-year-after-year-to-spend</id>
+   <content type="html">&lt;p /&gt;
+
+&lt;center&gt;
+&lt;audio src=&quot;http://mlk-kpp01.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3&quot; controls=&quot;&quot; preload=&quot;none&quot; /&gt;
+&lt;/center&gt;
+&lt;p /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death.” &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Martin Luther King, Jr., “Beyond Vietnam” speech, April 4th, 1967&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read the full text of the speech at the &lt;a href=&quot;http://mlk-kpp01.stanford.edu/index.php/encyclopedia/encyclopedia/enc_beyond_vietnam_4_april_1967/&quot;&gt;Stanford MLK Encyclodpedia&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Sites and New Sounds</title>
+   <link href="http://craigeley.github.io/01-17-2014/new-sites-and-new-sounds"/>
+   <updated>2014-01-17T09:00:00-05:00</updated>
+   <id>http://craigeley.github.io/01-17-2014/new-sites-and-new-sounds</id>
+   <content type="html">&lt;p&gt;After all of the great feedback generated by my &lt;a href=&quot;http://craigeley.com/post/72565974459/sifttter-an-ifttt-to-day-one-logger&quot;&gt;last post&lt;/a&gt;—a Ruby script that automatically logs &lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt; data into &lt;a href=&quot;http://dayoneapp.com/&quot;&gt;Day One&lt;/a&gt;—I’ve honestly been a little reluctant to get back to the “main” aspect of this blog, which is my academic work. But here we are.&lt;/p&gt;
+
+&lt;p&gt;This week I started teaching my experimental undergraduate class, “The Nature of Sound / The Sound of Nature,” which so far has proven to be incredibly cool. For starters, thanks to &lt;a href=&quot;https://twitter.com/jenterysayers&quot;&gt;@jenterysayers&lt;/a&gt;, I built my &lt;a href=&quot;http://craigeley.github.io/297c/&quot;&gt;course website&lt;/a&gt; using &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, a robust and flexible way to host to static website. I’m adding new pages, links, and elements practically every day right now to adjust to the flow of the class the flow of my pedagogical inspiration—which is super high right now. It feels great to be back in the classroom after a few semesters off from teaching. Basically, the course website functions as an interactive syllabus. Nothing is password protected, so you can have a look around and even follow along, to a certain extent. I’ll try to add class notes and slideshows, when appropriate.&lt;/p&gt;
+
+&lt;p&gt;Doing all of that tinkering made me think it was time for a change on this site as well. I moved away from the &lt;a href=&quot;http://quitebig.tumblr.com/&quot;&gt;Quite Big&lt;/a&gt; Tumblr theme, which I actually loved, over to the &lt;a href=&quot;http://write-theme.tumblr.com/&quot;&gt;Write theme&lt;/a&gt; just for a change of pace. After my initial excitement I actually found much in the theme that I either disliked (page width, header size) or was fundamentally broken (block quotes), so I spent a few hours tinkering around with it, and that’s what you see here. If you view the posts via &lt;a href=&quot;http://craigeley.com/rss&quot;&gt;RSS&lt;/a&gt; or the Tumblr dashboard, come on over to the &lt;a href=&quot;http://craigeley.com&quot;&gt;main page&lt;/a&gt; sometime and have a look.&lt;/p&gt;
+
+&lt;p&gt;Finally, for all of you American Studies / Sound Studies / American West nerds out there—and the handful of us who might exist at that intersection—here’s a head’s up that there is, in fact, an audio version of the “frontier thesis” by &lt;a href=&quot;http://www.pbs.org/weta/thewest/people/s_z/turner.htm&quot;&gt;Frederick Jackson Turner&lt;/a&gt;. It’s still in print, in fact, and available from—who else?—Smithsonian Folkways. Have a look and a listen &lt;a href=&quot;http://www.folkways.si.edu/american-essays-read-by-houston-peterson/prose/album/smithsonian&quot;&gt;right here&lt;/a&gt;. I’ll be doing a more in-depth post about the audio version of this classic text some time before the end of the semester.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sifttter: An IFTTT to Day One Logger</title>
+   <link href="http://craigeley.github.io/01-07-2014/sifttter-an-ifttt-to-day-one-logger"/>
+   <updated>2014-01-07T12:38:00-05:00</updated>
+   <id>http://craigeley.github.io/01-07-2014/sifttter-an-ifttt-to-day-one-logger</id>
+   <content type="html">&lt;p&gt;Let me just start by saying that this project is wholly derived from the work of &lt;a href=&quot;http://brettterpstra.com/&quot;&gt;Brett Terpstra&lt;/a&gt;. Ever since I saw his script to &lt;a href=&quot;http://brettterpstra.com/2012/02/25/automating-taskpaper-to-day-one-logs/&quot;&gt;log Taskpaper entries to Day One&lt;/a&gt;, I’ve been obsessed with finding ways to capture and automate my own information into a daily journal. These experiments were my first attempts at “coding,” and you can see some of that work &lt;a href=&quot;http://craigeley.com/tagged/logging&quot;&gt;here&lt;/a&gt;. When &lt;a href=&quot;http://ttscoff.github.io/Slogger/&quot;&gt;Slogger 2&lt;/a&gt; came out, I was over the moon, and for many months I had it running every night on my machine and churning out entries.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gist.github.com/craigeley/8301817&quot;&gt;Sifttter&lt;/a&gt; takes the concept of Slogger and applies it to &lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt; by using Brett’s original TaskPaper script. Though it is essentially limited to current IFTTT channels, there is lots of flexibility through IFTTT itself, as well as the opportunity for individual input and customization. I’ve been using this for several months, and am happy to share it here for those who might be interested.&lt;/p&gt;
+
+&lt;h3 id=&quot;set-up&quot;&gt;Set-up&lt;/h3&gt;
+
+&lt;p&gt;For this to work you will need a copy of &lt;a href=&quot;http://dayoneapp.com/&quot;&gt;Day One&lt;/a&gt;, an &lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt; account, and a &lt;a href=&quot;https://www.dropbox.com/&quot;&gt;Dropbox&lt;/a&gt; account. The script works by reading files generated by IFTTT and sent to a specific folder in your Dropbox. To get you started, here are the recipes that I’m currently using, and how they are configured.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Locations via Foursquare&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/138672&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/138672&quot; alt=&quot;IFTTT Recipe: Sifttter: Add Check-ins to Dropbox&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Music via Last.fm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/138673&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/138673&quot; alt=&quot;IFTTT Recipe: Sifttter: Played Tracks to Dropbox&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tasks via iOS Reminders&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/138671&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/138671&quot; alt=&quot;IFTTT Recipe: Sifttter: Reminders to Dropbox&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Weight via Withings Scale&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/138658&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/138658&quot; alt=&quot;IFTTT Recipe: Sifttter: Body Analyzer to Dropbox&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tweets via Twitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/138670&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/138670&quot; alt=&quot;IFTTT Recipe: Sifttter: Tweets to Dropbox&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;explanation-and-customization&quot;&gt;Explanation and Customization&lt;/h3&gt;
+
+&lt;p&gt;As you can see when you look at the script or at the IFTTT recipes, the script works by reading lines that start with a dash and today’s date and end with the mark “@done”. The hyphen is there because it creates a nice bulleted list in Day One, and the done tag is a holdover from Brett’s original TaskPaper usage. In this context both of those things still make sense, though, for logging entries on your own, via TaskPaper or any other text editor. For example, if you set up a TextExpander snippet like this one &lt;code&gt;- %B %d, %Y at %I:%M%p - %| @done&lt;/code&gt;, you can manually enter a task on your phone or computer. Also, I’ve found that working with the text fields in IFTTT is easier than working with the config file for Slogger, so changing how something is worded or appears in your actual entry is as simple as changing it in the recipe. &lt;strong&gt;Fair Warning&lt;/strong&gt;: you &lt;em&gt;must&lt;/em&gt; keep the the date at the beginning and the @done at the end so that the script will read the line.&lt;/p&gt;
+
+&lt;h3 id=&quot;usage&quot;&gt;Usage&lt;/h3&gt;
+
+&lt;p&gt;Once you have your channels configured, just download the &lt;a href=&quot;https://gist.github.com/craigeley/8301817&quot;&gt;script&lt;/a&gt; and make it executable using &lt;code&gt;chmod a+x&lt;/code&gt; in the Terminal. Then use an app like &lt;a href=&quot;https://itunes.apple.com/us/app/lingon-3/id450201424?mt=12&quot;&gt;Lingon&lt;/a&gt; to set it to run every night at 11:55pm or so.&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/XJUk+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Above you can see the entry from my birthday, which I spent in Nashville with some friends. It was a really great day—food, drinks, shopping, music, art. And, if you read between the lines a little bit, you’ll notice that the awesome wait staff at &lt;a href=&quot;http://www.hollandhousebarandrefuge.com/&quot;&gt;Holland House&lt;/a&gt; let me play my own tunes for a while through the system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/835H+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is yesterday’s example, which is heavily redacted to protect the innocent, but I wanted to use it because it nicely demonstrates the Reminders channel. The “Fitness” category comes directly from the Withings Channel, while Tweets obviously comes from Twitter. But “Academic,” “Job Search,” and “Productivity” are all names of lists that I use within the Reminders app. So those get split into individual categories for the purposes of the logbook.&lt;/p&gt;
+
+&lt;p&gt;This is really only tested on my machine, but I’ll do my best to answer any questions you might have when trying it out. You can reach me on this Tumblr, of course, or via &lt;a href=&quot;https://twitter.com/craigeley&quot;&gt;Twitter&lt;/a&gt; or email: craigeley AT gmail DOT com.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: If you are still on Mac OS 10.8 or below, please use &lt;a href=&quot;https://gist.github.com/craigeley/8322805&quot;&gt;this script&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update 2&lt;/strong&gt;: There was a bug in the script for people using iCloud—the file path was incorrect. (HUGE thanks to Oscar for pointing that out!) Both of the scripts have been updated as of 4:25EST on Jan. 8.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update 3&lt;/strong&gt;: You can now run Sifttter over specific dates and ranges. See &lt;a href=&quot;http://craigeley.com/post/77908985251/sifttter-update-the-date-update&quot;&gt;this post&lt;/a&gt; for more details.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Aesthetics and the Art of Audio Field Recording</title>
+   <link href="http://craigeley.github.io/12-16-2013/aesthetics-and-the-art-of-audio-field-recording"/>
+   <updated>2013-12-16T10:51:14-05:00</updated>
+   <id>http://craigeley.github.io/12-16-2013/aesthetics-and-the-art-of-audio-field-recording</id>
+   <content type="html">&lt;p&gt;From &lt;a href=&quot;http://www.trebuchet-magazine.com/aesthetics-art-audio-field-recording/&quot;&gt;Aesthetics and the Art of Audio Field Recording&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When listening to sounds we can choose to focus on the perceptual qualities of the sounds, or on the meanings that the sounds convey.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the hardest things about teaching a class on sound is establishing how to talk about it. My course next semester, &lt;em&gt;The Nature of Sound / The Sound of Nature&lt;/em&gt;, is designed to explore the relationships between human hearing, sound technologies, and the idea of “nature” from the late nineteenth century to the present. While I’m excited that both the English and Music departments here at Penn State have decided to cross-list the course, I’m also concerned that students coming from one of those areas might not have a lot of experience talking to people coming from the other. I think one of my tasks right from the beginning will be to help develop a shared language for both the “close listening” of sounds and the “close reading” of texts.&lt;/p&gt;
+
+&lt;p&gt;One of the problems is that the majority of contemporary nature sound practices—from the scientific project of acoustic ecology to the informal communities of sound artists and advocates—have been slow to explicitly develop their own language or working set of principles. In fact, as &lt;a href=&quot;http://soundthoughts1.wordpress.com/2013/05/30/conclusion-1-hunting-for-sound-in-nature/&quot;&gt;Caleb Kelly&lt;/a&gt; has been pointing out on his blog, most field recording practices are woefully under-theorized. One of the goals of this class, and of my larger work in general, is to put some of these practices into deeper intellectual and historical contexts.&lt;/p&gt;
+
+&lt;p&gt;I recently came across &lt;a href=&quot;http://www.trebuchet-magazine.com/aesthetics-art-audio-field-recording/&quot;&gt;this article&lt;/a&gt; that attempts to bridge some of these divides by proposing a set of qualities by which we can start to establish an aesthetics of field recording: perspective, density, texture, and motion. While I’m not sure that these are perfect, I think they are an interesting starting point, and I’m thinking about using that article’s many examples in class to see how my students might respond.&lt;/p&gt;
+
+&lt;p&gt;I’m in the process of developing a website for the course where some of these issues will hopefully play out in a public way. I’ll post a link and more information once I sort out all of those details in January.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>H-Net + IFTTT</title>
+   <link href="http://craigeley.github.io/12-12-2013/h-net-ifttt"/>
+   <updated>2013-12-12T09:00:41-05:00</updated>
+   <id>http://craigeley.github.io/12-12-2013/h-net-ifttt</id>
+   <content type="html">&lt;p&gt;Those of you on the academic scene are almost certainly familiar with &lt;a href=&quot;https://www.h-net.org/&quot;&gt;H-Net&lt;/a&gt;, the online portal for all things humanities and social sciences. Now, H-Net has rolled out version 2.0, &lt;a href=&quot;https:/etworks.h-net.org/&quot;&gt;the H-Net Commons&lt;/a&gt;, which, among many other improvements, adds RSS feeds to any of the &lt;a href=&quot;https:/etworks.h-net.orgetworks&quot;&gt;current networks&lt;/a&gt;. This means you no longer need to subscribe to an email listserv to find information (or tediously browse an online listserv archive), but instead can use your RSS readers of choice. (Mine happen to be &lt;a href=&quot;http:/eadkitapp.com/&quot;&gt;ReadKit&lt;/a&gt; on my laptop, and &lt;a href=&quot;http:/eederapp.com/ios/&quot;&gt;Reeder&lt;/a&gt; on my phone.)&lt;/p&gt;
+
+&lt;p&gt;But perhaps the best part about this is that you now scan these RSS feeds using &lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt; and send specific entries to certain places. If, like me, you’re interested in American Studies, you might want all CFPs to be added to your iOS Reminders, &lt;a href=&quot;https://ifttt.comecipes/133116&quot;&gt;like so&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/133116-add-h-amstdy-calls-for-papers-to-your-ios-reminders&quot; target=&quot;_blank&quot; class=&quot;embed_recipe embed_recipe-l_51&quot; id=&quot;embed_recipe-133116&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/133116&quot; alt=&quot;IFTTT Recipe: Add H-AMSTDY Calls for Papers to your iOS Reminders connects feed to ios-reminders&quot; width=&quot;370px&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; type=&quot;text/javascript&quot; src=&quot;//ifttt.com/assets/embed_recipe.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Or you could also have all of the weekly Job Update posts go right to your inbox—even if you aren’t subscribed to receive emails—using &lt;a href=&quot;https://ifttt.comecipes/133105&quot;&gt;this recipe&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ifttt.com/view_embed_recipe/133105-get-an-email-with-the-h-amstdy-weekly-job-guide&quot; target=&quot;_blank&quot; class=&quot;embed_recipe embed_recipe-l_47&quot; id=&quot;embed_recipe-133105&quot;&gt;&lt;img src=&quot;https://ifttt.com/recipe_embed_img/133105&quot; alt=&quot;IFTTT Recipe: Get an email with the H-AMSTDY weekly job guide connects feed to email&quot; width=&quot;370px&quot; style=&quot;max-width:100%&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; type=&quot;text/javascript&quot; src=&quot;//ifttt.com/assets/embed_recipe.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;These are untested, and just a few examples that I came up with off the top of my head. Obviously, you could change the feeds and use these with any subject area in the H-Net network. Anyone else using IFTTT with H-Net yet? How is it going?&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My fall semester, in name tags</title>
+   <link href="http://craigeley.github.io/12-11-2013/my-fall-semester-in-name-tags-at-ihlseng"/>
+   <updated>2013-12-11T09:50:30-05:00</updated>
+   <id>http://craigeley.github.io/12-11-2013/my-fall-semester-in-name-tags-at-ihlseng</id>
+   <content type="html">&lt;center&gt;&lt;iframe src=&quot;//instagram.com/p/hyQa6OgAtn/embed/&quot; width=&quot;612&quot; height=&quot;710&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/center&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Updates from Happy Valley</title>
+   <link href="http://craigeley.github.io/07-09-2013/updates-from-happy-valley"/>
+   <updated>2013-07-09T14:21:00-04:00</updated>
+   <id>http://craigeley.github.io/07-09-2013/updates-from-happy-valley</id>
+   <content type="html">&lt;p&gt;I’m happily writing this from Liz and my &lt;a href=&quot;http://instagram.com/p/bRuJ0ACHvj/&quot;&gt;new house&lt;/a&gt; in State College, PA. We’ve been here about a week, and I’ve already started to settle in to my new position as a Postdoctoral Fellow at the &lt;a href=&quot;http://iah.psu.edu/&quot;&gt;Institute for the Arts and Humanities&lt;/a&gt;, as a part of their &lt;a href=&quot;http://iah.psu.edu/programs/human.shtml&quot;&gt;“Being Humans” initiative&lt;/a&gt;. So yes, I successfully defended my dissertation on June 6th. Finally. Thanks to Justin Kerr of &lt;a href=&quot;http://www.blacksheeppostal.com/&quot;&gt;Black Sheep Postal Service&lt;/a&gt; for making these awesome &lt;a href=&quot;http://instagram.com/p/ZT9a5sh3wy/&quot;&gt;graduation announcements&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve got great office space in &lt;a href=&quot;http://instagram.com/p/ZqIEL0AAgA/&quot;&gt;Ihlseng Cottage&lt;/a&gt; and a very flexible schedule, so hopefully I can get back to posting more here—the last few months have been busy with writing (on top of moving halfway across the country…) which also means they have been busy with procrastinating and tinkering with my “workflow.” I have lots of updates to the logging ideas I was messing around with earlier in the year, which I’ll try to share soon.&lt;/p&gt;
+
+&lt;p&gt;Also, this fall I have some academic essays in the pipeline that are under review with a handful of journals. It’s a bit too early to say for sure if and when they’ll be out in the world, but hopefully I’ll be able to share more details soon. So yeah—12 months at Penn State start…now.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Something I Created and Loved has been Killed</title>
+   <link href="http://craigeley.github.io/04-21-2013/this-letter-dated-february-10-1956-is-from-cbs"/>
+   <updated>2013-04-21T14:36:00-04:00</updated>
+   <id>http://craigeley.github.io/04-21-2013/this-letter-dated-february-10-1956-is-from-cbs</id>
+   <content type="html">&lt;center&gt;![](http://d.pr/EZ1G)&lt;/center&gt;
+
+&lt;p&gt;This letter, dated February 10, 1956, is from CBS Radio producer Jim Fassett to Peter Paul Kellogg of the Cornell Ornithology lab. Fassett had done a rather strange tape manipulation piece he called “Symphony of the Birds,” and hoped to release it with Columbia, whom he worked with on an earlier LP, the now-cult-classic &lt;a href=&quot;http://www.discogs.com/Jim-Fassett-Strange-To-Your-Ears-The-Fabulous-World-Of-Sound-With-Jim-Fassett/release/814415&quot;&gt;&lt;em&gt;Strange to Your Ears&lt;/em&gt;&lt;/a&gt;. Because the piece used Cornell bird recordings, he had to reach an agreement with them in regards to royalties and copyrights. Essentially, Cornell rejected every deal he put forth, but the album eventually did get released on a much smaller label in 1970—I haven’t yet found out how or why the negotiations were reached at that time. Obviously, this letter is an archival gem, emotional and raw and very uncharacteristic of the previous professional correspondence between he and Cornell. I hope to “recover” Fassett a bit in my dissertation as a kind of experimental composer with his “Symphony of the Birds.” &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thoreau's Grand Analogy</title>
+   <link href="http://craigeley.github.io/04-16-2013/sound-and-silence-were-thoreaus-grand-analogy"/>
+   <updated>2013-04-16T18:46:33-04:00</updated>
+   <id>http://craigeley.github.io/04-16-2013/sound-and-silence-were-thoreaus-grand-analogy</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Sound and silence were Thoreau’s grand analogy: silence was a celestial sea of eternity, the general, spiritual, and immutable; sound was the particular and momentary bubble on its surface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;—Sherman Paul, “The Wise Silence: Sound as the Agency of Correspondence in Thoreau,” &lt;em&gt;The New England Quarterly&lt;/em&gt; 22.4 (1949), 513.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Update: Song Diary and Day One Logging with Slogger</title>
+   <link href="http://craigeley.github.io/04-16-2013/update-song-diary-and-day-one-logging-with-slogger"/>
+   <updated>2013-04-16T14:00:17-04:00</updated>
+   <id>http://craigeley.github.io/04-16-2013/update-song-diary-and-day-one-logging-with-slogger</id>
+   <content type="html">&lt;p&gt;Well, that didn’t take long.&lt;/p&gt;
+
+&lt;p&gt;Almost immiediately after I posted yesterday about &lt;a href=&quot;/post/48046602590/song-diary-log-itunes-tracks-to-day-one&quot;&gt;logging from iTunes to Day One&lt;/a&gt; by modifying &lt;a href=&quot;http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer&quot;&gt;Trackographer&lt;/a&gt;, I came across Brett Terpstra’s &lt;a href=&quot;https://github.com/ttscoff/Slogger&quot;&gt;Slogger&lt;/a&gt; suite of scripts, which allows you to generate Day One entries from an incredible variety of web-based services. Obviously, it was the&lt;a href=&quot;https://github.com/ttscoff/Slogger/blob/master/plugins/lastfmlogger.rb&quot;&gt;Last.fm plugin&lt;/a&gt; that really intrigued me, especially since my Trackographer script was being a little finnicky yesterday morning.&lt;/p&gt;
+
+&lt;p&gt;So I tested it. My initial results were pretty unsatisfying, with songs getting pulled down in seemingly random order. They also didn’t include a timestamp for me to manually rearrange them if I wanted to (which I didn’t). I know literally nothing about Ruby scripting, but I could tell that the script was pulling down data from an RSS feed. So I tried pointing the &lt;a href=&quot;https://github.com/ttscoff/Slogger/blob/master/pluginssslogger.rb&quot;&gt;RSS Slogger plugin&lt;/a&gt; to my last.fm feed, and then modifying the output to produce something similar to &lt;a href=&quot;http://d.pr/uZzZ&quot;&gt;what I had done yesterday&lt;/a&gt;. Voila! I feel like what I lost in formatting I made up for in the fact that song titles link to their Last.fm page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/vAtA+&quot; alt=&quot;new last.fm entry screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to make this work, you’ll need to replace the code in the RSS plugin with the code found &lt;a href=&quot;http://d.pr/E0dd&quot;&gt;here&lt;/a&gt;, which, like I said, is super hackish and probably gross if you know anything about Ruby. Of course, you’ll also need to following all of the basic set-up steps with &lt;a href=&quot;https://github.com/ttscoff/Slogger/blob/masterEADME.md&quot;&gt;Slogger&lt;/a&gt; first. That involves some command-line stuff, but it’s pretty straightforward.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Song Diary: Log iTunes Tracks to Day One</title>
+   <link href="http://craigeley.github.io/04-15-2013/song-diary-log-itunes-tracks-to-day-one"/>
+   <updated>2013-04-15T12:12:00-04:00</updated>
+   <id>http://craigeley.github.io/04-15-2013/song-diary-log-itunes-tracks-to-day-one</id>
+   <content type="html">&lt;p&gt;This morning I wanted to quickly share some modifications I did to &lt;a href=&quot;http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer&quot;&gt;Doug’s Trackographer app&lt;/a&gt; to make it work with Brett Terpstra’s &lt;a href=&quot;http://brettterpstra.com/2012/02/25/automating-taskpaper-to-day-one-logs/&quot;&gt;TaskPaper logging script&lt;/a&gt;. Here’s the quick and dirty—not fully tested and certainly not guaranteed—with a more detailed post and some fixes coming later in the week or early next.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make sure you download the above the files: the Trackographer app and the Ruby script. You should also have TaskPaper installed. If you don’t, just download the demo and install it so that files with the “.taskpaper” extension are associated with it. You never need to purchase the app. 2.  Launch Trackograher. On first run, it should ask you to set your prefs. I think track title is automatically selected. Also select Artist and Album. Any other metadata is unsupported at this time. Also, set the filetype to plain text. 3.  Close Trackographer. 4.  Go to Trackographer-&amp;gt;Show Package Contents-&amp;gt;Resources-&amp;gt;Scripts-&amp;gt;main.scpt 5.  Open in AppleScript Editor, and replace the whole code with this code: &lt;a href=&quot;http://d.pr/4lvl&quot;&gt;http://d.pr/4lvl&lt;/a&gt; 6.  Create a folder called “Music” in your home Documents folder (or modify the script to point somewhere else). 7.  Open Trackographer, open iTunes, and play some jams. 8.  Test it by running the Ruby script in Terminal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If everything works, you should end up with a shiny log like this one:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/uZzZ+&quot; alt=&quot;Log Screen Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: In my very limited testing, opening the raw file log with FoldingText breaks the Ruby script, for reasons that I can’t figure out yet. Like I said, this is a very rough idea, and I’ll tweak it more when I have more time.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Syntony</title>
+   <link href="http://craigeley.github.io/04-14-2013/harmony-resonance-syntony-or-tuning-these-are"/>
+   <updated>2013-04-14T21:55:00-04:00</updated>
+   <id>http://craigeley.github.io/04-14-2013/harmony-resonance-syntony-or-tuning-these-are</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Harmony, resonance, syntony, or tuning—these are all words we use to describe the relationship between systems that vary together cyclically, that influence one another even though not in contact, that retain their separate identities while sharing a common mode of behavior.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hugh G. J. Aitken, &lt;em&gt;Syntony and Spark: The Origins of Radio&lt;/em&gt; (New York: Wiley, 1976), p. 41.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Floating Friday Talk</title>
+   <link href="http://craigeley.github.io/04-01-2013/for-those-of-you-in-iowa-city-or-coming-into"/>
+   <updated>2013-04-01T11:02:00-04:00</updated>
+   <id>http://craigeley.github.io/04-01-2013/for-those-of-you-in-iowa-city-or-coming-into</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://d.pr/QMi5+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For those of you in Iowa City (or coming into town for the &lt;a href=&quot;http://www.missionfreak.com&quot;&gt;Mission Creek Festival&lt;/a&gt;), I’ll be giving a talk on Friday on the history of performance whistling and its connection to the environmental politics of bird preservation, as well as its connection to race, class and gender. 4pm in 704 Jefferson Building. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scalar - The Alliance for Networking Visual Culture</title>
+   <link href="http://craigeley.github.io/03-31-2013/scalar-the-alliance-for-networking-visual-culture"/>
+   <updated>2013-03-31T22:36:59-04:00</updated>
+   <id>http://craigeley.github.io/03-31-2013/scalar-the-alliance-for-networking-visual-culture</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://scalar.usc.edu/&quot;&gt;Scalar&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The long-anticipated Scalar platform opened for public registration recently—and I’m really excited to check it out, make something, and see what others will do with it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ubuweb</title>
+   <link href="http://craigeley.github.io/03-28-2013/ubuweb"/>
+   <updated>2013-03-28T17:42:31-04:00</updated>
+   <id>http://craigeley.github.io/03-28-2013/ubuweb</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Ubuweb… it’s not an institution. It’s a guy that puts his kids to bed, gets a glass of bourbon, and sits at his computer every night from 10 o’ clock til one in the morning, getting drunk and stealing things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;—&lt;a href=&quot;http://www.livestream.com/momatalks/video?clipId=pla_6580e2d0-8645-4a5c-8d2e-729a7b07dec2&amp;amp;utm_source=lslibrary&amp;amp;utm_medium=ui-thumb&quot;&gt;Kenneth Goldsmith&lt;/a&gt; (via &lt;a href=&quot;http://tumblr.austinkleon.com/&quot;&gt;austinkleon&lt;/a&gt;)&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Digital Dissertator: Markdown Footnote Update</title>
+   <link href="http://craigeley.github.io/03-23-2013/the-digital-dissertator-markdown-footnote-update"/>
+   <updated>2013-03-23T14:25:00-04:00</updated>
+   <id>http://craigeley.github.io/03-23-2013/the-digital-dissertator-markdown-footnote-update</id>
+   <content type="html">&lt;p&gt;The one thing that I neglected to mention in my &lt;a href=&quot;http://craigeley.com/post/45896860184/the-digital-dissertator-academic-writing-and&quot;&gt;recent post&lt;/a&gt; about using a &lt;a href=&quot;http://www.smilesoftware.com/TextExpander/index.html&quot;&gt;TextExpander&lt;/a&gt; timestamp to make Markdown-style footnotes is that the snippet gets pretty ugly when you go back in and add footnotes at the revision stage—which we’re all doing, right? As my original snippet was written, it would do a carriage return and then put your footnote smack in the middle of the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/fPVU+&quot; alt=&quot;Gross.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That got me thinking about the snippet in general, and that really what it needs is “page down” functionality. This was a little trickier than I’d hoped, but is totally possible thanks to TextExpander’s ability to handle AppleScript and to nest scripts inside of others. Basically, the old script called for creating the timestamp, then making two carriage returns, and finally generating the timestamp again with a colon after it.&lt;/p&gt;
+
+&lt;p&gt;This new script creates the time stamp, pages down to the bottom of the document, adds two returns, then pastes the clipboard (which is already the timestamp), then adds the colon. This way, no matter where you are in the document, you can generate your footnote at the bottom. Markdown, as usual, can handle the work from there, since in exporting or converting it will automatically match and number your notes for you.&lt;/p&gt;
+
+&lt;p&gt;Here is how this works:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create an AppleScript snippet in TextExpander that will page down and paste the contents of the clipboard with a colon after it:&lt;/p&gt;
+
+    &lt;pre&gt;&lt;code&gt; tell application &quot;System Events&quot; 
+ key code 125 using command down --this is &quot;scroll to bottom&quot; 
+ keystroke return 
+ keystroke return 
+ keystroke &quot;v&quot; using command down --this pastes the clipboard 
+ keystroke &quot;:&quot; 
+ keystroke space
+ end tell
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a plain text snippet in TextExpander that create your footnote timestamp syntax and then call your new AppleScript snippet:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code&gt;[^%y%1m%e%1H%1M]%snippet:;pgd%&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The portion “%snippet:;pgd%” will be replaced by whatever you decided to call the page down snippet.&lt;/p&gt;
+
+&lt;p&gt;That’s all there is to it. Now your footnotes will always be at the very bottom, no matter where you are at the writing or revision stage.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Digital Dissertator: Academic Writing (and Footnoting) in Markdown</title>
+   <link href="http://craigeley.github.io/03-21-2013/the-digital-dissertator-academic-writing-in-markdown"/>
+   <updated>2013-03-21T01:30:00-04:00</updated>
+   <id>http://craigeley.github.io/03-21-2013/the-digital-dissertator-academic-writing-in-markdown</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://fieldnoise.com/diss/images/writing.jpeg&quot; alt=&quot;Writing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The virtues of writing in plaintext documents using Markdown syntax are many: you can work in virtually any writing program on any platform, you can sync your work to all of your devices, and you can easily convert it to any format you might need (including .doc and .docx, if you must). Before you get to all of those things, though, you have to start writing in it, which, as &lt;a href=&quot;http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295&quot;&gt;this post&lt;/a&gt; observes, you probably already know how to do. On a day-to-day basis, most writers in the humanities probably don’t need more complex text formatting than &lt;em&gt;italics&lt;/em&gt; or &lt;strong&gt;bold&lt;/strong&gt; anyway, which Markdown handles with asterisks: one on each side for italics, two on each side for bold. Read more about the basics &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For me the biggest hurdle to writing full-time in Markdown was the most important piece of formatting in the academic world: footnotes. But thanks to an extension called &lt;a href=&quot;http://fletcherpenney.net/multimarkdown/&quot;&gt;MultiMarkdown&lt;/a&gt; (or MMD for short), you can add footnotes to Markdown documents. MultiMarkdown functions are built into most Markdown editors and translators, though initially I found the implementation difficult to work with.&lt;/p&gt;
+
+&lt;p&gt;The problem is that MMD’s footnoting device &lt;a href=&quot;https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide&quot;&gt;(outlined in this guide)&lt;/a&gt; is based on identifiers which &lt;em&gt;must&lt;/em&gt; be unique. This makes keeping track of them unwieldy at best, and almost unusable for writers working in a nonlinear fashion or tackling long-form projects. For example, the footnote represented as “[^1]” in your document must reference a corresponding note, like so:&lt;/p&gt;
+
+&lt;p&gt;&amp;gt;MultiMarkdown is pretty cool.[^1]&lt;/p&gt;
+
+&lt;p&gt;&amp;gt;[^1]:Eley, 1.&lt;/p&gt;
+
+&lt;p&gt;When converted to PDF, HTML (like in this blog post) or pretty much any other format, it will look like a nice little footnote:&lt;/p&gt;
+
+&lt;p&gt;&amp;gt;MultiMarkdown is pretty cool.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;While I count “counting” among my skills, I found sequential numbers almost impossible to keep track of at a certain point, especially for a long project like my dissertation. Another possibility, I initially thought, was to use author names, since footnote identifiers in MMD don’t have to be numerical. An identifier could be something like “[\^Eley],” but if I cite that source more than once I would again need to make it unique, such as “[\^Eley2],” and if I was citing more than one text from the same author, the headaches would compound. At this point the whole thing was starting to feel like a hassle, which was the exact opposite of what I was looking for in plaintext writing.&lt;/p&gt;
+
+&lt;p&gt;To solve this problem, I started using &lt;a href=&quot;http://smilesoftware.com/TextExpander/&quot;&gt;TextExpander&lt;/a&gt;, a brilliant program which can take a few keystrokes and turn them into a longer string of words or characters. Fair warning, it’s &lt;a href=&quot;http://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&quot;&gt;not cheap&lt;/a&gt; at $35 (+$5 for the &lt;a href=&quot;http://itunes.apple.com/us/app/textexpander/id326180690?mt=8&quot;&gt;iOS version&lt;/a&gt;), but it is totally worth it, not just in this situation but in &lt;a href=&quot;http://smilesoftware.com/TextExpander/screencast/index.html&quot;&gt;plenty others&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve got TextExpander, you can use it to eliminate the mechanical and mental hassles of MMD footnoting by automatically creating the brackets, carats, colons, and unique identifiers by way of its timestamp feature. Here is the “snippet” I use to create a footnote:&lt;/p&gt;
+
+&lt;p&gt;&amp;gt;[\^%y%1m%e%1H%1M]&lt;/p&gt;
+
+&lt;p&gt;&amp;gt;[\^%y%1m%e%1H%1M]:&lt;/p&gt;
+
+&lt;p&gt;Now, by using the keystroke “ffn,” a timestamp code down to the minute is used to identify my footnote, meaning that as long as I don’t create a new footnote in the next 60 seconds, it will remain unique and not conflict with any other footnote I generate—ever. (You could make this timestamp down to the second, by the way, but who needs to generate more than one footnote per minute? Stop and take a breath.) While the string does end up being kind of long, you’ll quickly get used to it in your writing and editing process. Hopefully you can get a sense for how easy this is by looking at it in action &lt;a href=&quot;http://www.youtube.com/watch?v=5D-im8ITyzo&quot;&gt;in this video&lt;/a&gt;, using the &lt;a href=&quot;http://bywordapp.com/&quot;&gt;Byword&lt;/a&gt; text editor, which has a built-in Markdown preview.&lt;/p&gt;
+
+&lt;p&gt;I’d love to hear your thoughts on this workflow in the comments, or answer any questions, or hear about other ways you’ve come up with to handle footnoting in MMD.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: After originally writing this post, I came across Brett Terpstra’s &lt;a href=&quot;http://brettterpstra.com/projects/markdown-service-tools/&quot;&gt;Markdown Toolkit&lt;/a&gt;. Among its many useful scripts in one that can scan your documents and make your footnotes unique. How does it work? Using a timestamp. Check it out and download everything &lt;a href=&quot;http://brettterpstra.com/projects/markdown-service-tools/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Eley, 1 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Digital Dissertator: Introduction</title>
+   <link href="http://craigeley.github.io/03-20-2013/the-digital-dissertator-introduction"/>
+   <updated>2013-03-20T23:44:00-04:00</updated>
+   <id>http://craigeley.github.io/03-20-2013/the-digital-dissertator-introduction</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://fieldnoise.com/diss/images/nonsense1.jpeg&quot; alt=&quot;Writing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Digital humanities” is perhaps &lt;em&gt;the&lt;/em&gt; biggest buzzphrase in academia
+right now, already (and inevitably) the subject of anthologies,
+conferences, Twitter hashtags, websites, symposia, etc. I still have
+barely dipped my toe into the literature, though I’ve always been
+interested in digital formats specifically as they relate to the
+publication and presentation of academic work: ways that we can get
+ideas “out there” besides print journals (and their online PDFs). This
+is one of the reasons for this Tumblr, and also why I’ve been closely
+following the development of the &lt;a href=&quot;http://scalar.usc.edu/&quot;&gt;Scalar
+project&lt;/a&gt; and other academic digital platforms.&lt;/p&gt;
+
+&lt;p&gt;If you click through to the Scalar &lt;a href=&quot;http://scalar.usc.edu/&quot;&gt;link&lt;/a&gt;,
+you’ll notice another buzzphrase front and center: “born digital.” This
+usually means projects that were conceived with digital presentation or
+distribution in mind, as articulated in
+&lt;a href=&quot;http://digidiss.eserver.org/&quot;&gt;this&lt;/a&gt; “born digital” dissertation archive
+concept. As obvious as it may seem, though, today every academic project
+is “born digital” at the level of writing—unless you’re still writing
+with a typewriter, or pen and paper, in which case more power to you. So
+when I officially started my dissertation in the fall, I wanted to write
+in a way that would be accessible from a variety of platforms (laptop,
+iDevice, other computers and operating systems), easily translatable
+into a variety of formats, and generally “ready” for digital
+publication, distribution, and/or annotation.&lt;/p&gt;
+
+&lt;p&gt;I’ve finally gotten around to sharing some of the tips and tricks I’ve
+been using to these ends in my dissertation over the last year or so.
+These will generally be in the style of
+&lt;a href=&quot;http://chronicle.com/blogs/profhacker/&quot;&gt;“profhacking”&lt;/a&gt; posts—quick tips
+on digital writing, research, or presentation. I’m going to call this
+series “the digital dissertator”—use the &lt;a href=&quot;http://craigeley.com/tagged/digidiss&quot;&gt;tag
+link&lt;/a&gt; to find more posts like this
+one.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The "Guide-A-Phone"</title>
+   <link href="http://craigeley.github.io/10-03-2012/the-guide-a-phone"/>
+   <updated>2012-10-03T12:25:15-04:00</updated>
+   <id>http://craigeley.github.io/10-03-2012/the-guide-a-phone</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://images.library.amnh.org/digital/files/original/54a10ff7b5dd08b56e56fba39ae536b9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The “Guide-A-Phone,” the first audio tour for museums. American Museum of Natural History, 1954.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

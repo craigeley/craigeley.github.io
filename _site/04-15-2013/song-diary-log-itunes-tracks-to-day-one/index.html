@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="http://gmpg.org/xfn/11" rel="profile">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link rel="canonical" href="http://craigeley.github.io/04-15-2013/song-diary-log-itunes-tracks-to-day-one" />
+	<meta name="description" content="This morning I wanted to quickly share some modifications I did to [Doug's Trackographer app](http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer) to make it work with..." />
+	<meta property="og:description" content="This morning I wanted to quickly share some modifications I did to [Doug's Trackographer app](http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer) to make it work with..." />
+	<meta itemprop="image" content="http://craigeley.github.io/assets/images/icon.png" />
+	<meta property="og:image" content="http://craigeley.github.io/assets/images/icon.png" />
+	<meta property="og:title" content="Song Diary: Log iTunes Tracks to Day One" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://craigeley.github.io/04-15-2013/song-diary-log-itunes-tracks-to-day-one" />
+	<meta property="og:site_name" content="craig eley dot com" />
+	<title>Song Diary: Log iTunes Tracks to Day One &middot; craig eley dot com</title>
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="HandheldFriendly" content="True" />
+	<meta name="MobileOptimized" content="320" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" type="text/css" media="only screen and (min-width: 1001px)" href="/assets/css/desktop.css" />
+	<link rel="stylesheet" type="text/css" media="only screen and (max-width: 1000px)" href="/assets/css/mobile.css" />
+	<link href="/assets/css/genericons.css" type="text/css" rel="stylesheet" />
+	<link href="/assets/css/syntax.css" type="text/css" rel="stylesheet" />
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+	<link rel="apple-touch-icon" href="http://craigeley.github.io/assets/images/icon.png">
+	<link rel="shortcut icon" href="http://craigeley.github.io/assets/images/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://craigeley.github.io/atom.xml">
+	<!-- Type -->
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://craigeley.github.io/assets/css/entypo.css" media="all">
+	<script src="/assets/js/audio.min.js"></script>
+ <script>
+   audiojs.events.ready(function() {
+     var as = audiojs.createAll();
+   });
+ </script>
+</head>
+<body>
+	<header class="clean" style="background-image: url(/images/pink-radio.jpg);height: 100%;">
+	
+	<label class="menu" for="_1">
+	<span class="genericon genericon-menu"></span>
+</label>
+<input id="_1" type="checkbox">
+<div class="menu-content">
+	<div class="menu" style="background-color: #777; z-index: -1;"></div>
+	
+	<a href="/#blog">Blog</a><br>
+	
+	<a href="/">Home</a><br>
+	
+</div>
+<div class="social-links">
+	
+	<a href="https://twitter.com/craigeley" target="_blank" title="Follow me on twitter"><span class="genericon genericon-twitter"></span></a>
+	
+	<a href="https://github.com/craigeley" target="_blank" title="Fork me on github"><span class="genericon genericon-github"></span></a>
+	
+	<a href="https://instagram.com/craigeley" target="_blank" title="Follow me on Instagram"><span class="genericon genericon-instagram"></span></a>
+	
+	<a href="http://craigeley.github.io/atom.xml" target="_blank" title="Subscribe to my feed"><span class="genericon genericon-feed"></span></a>
+	
+</div>
+	<div id="post-info">
+		<h1>Song Diary: Log iTunes Tracks to Day One</h1>
+		
+		<center><span class="post-date">15 April 2013</span></center>
+	</div>
+	<div id="nav-icon" style="bottom: 60px;">
+	<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-expand"></span></a>
+	</div>
+</header>
+<div id="article">
+	<p>This morning I wanted to quickly share some modifications I did to <a href="http://dougscripts.com/itunes/scripts/ss.php?sp=trackographer">Doug’s Trackographer app</a> to make it work with Brett Terpstra’s <a href="http://brettterpstra.com/2012/02/25/automating-taskpaper-to-day-one-logs/">TaskPaper logging script</a>. Here’s the quick and dirty—not fully tested and certainly not guaranteed—with a more detailed post and some fixes coming later in the week or early next.</p>
+
+<ol>
+  <li>Make sure you download the above the files: the Trackographer app and the Ruby script. You should also have TaskPaper installed. If you don’t, just download the demo and install it so that files with the “.taskpaper” extension are associated with it. You never need to purchase the app. 2.  Launch Trackograher. On first run, it should ask you to set your prefs. I think track title is automatically selected. Also select Artist and Album. Any other metadata is unsupported at this time. Also, set the filetype to plain text. 3.  Close Trackographer. 4.  Go to Trackographer-&gt;Show Package Contents-&gt;Resources-&gt;Scripts-&gt;main.scpt 5.  Open in AppleScript Editor, and replace the whole code with this code: <a href="http://d.pr/4lvl">http://d.pr/4lvl</a> 6.  Create a folder called “Music” in your home Documents folder (or modify the script to point somewhere else). 7.  Open Trackographer, open iTunes, and play some jams. 8.  Test it by running the Ruby script in Terminal.</li>
+</ol>
+
+<p>If everything works, you should end up with a shiny log like this one:</p>
+
+<p><img src="http://d.pr/uZzZ+" alt="Log Screen Shot" /></p>
+
+<p><strong>Note</strong>: In my very limited testing, opening the raw file log with FoldingText breaks the Ruby script, for reasons that I can’t figure out yet. Like I said, this is a very rough idea, and I’ll tweak it more when I have more time.</p>
+
+
+<div id="base-icon">
+<center><a href="https://twitter.com/intent/tweet?text=&quot;Song Diary: Log iTunes Tracks to Day One&quot;%20http://craigeley.github.io/04-15-2013/song-diary-log-itunes-tracks-to-day-one%20via%20&#64;craigeley" data-dnt="true"><span class="genericon genericon-twitter"></span></a><a href="http://craigeley.github.io"><span class="genericon genericon-home"></span><a href=""><span class="genericon genericon-link"></span></center>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<a name="comments"></a>
+      <aside class="disqus">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'craigeley'; // required: replace example with your forum shortname
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </aside>
+</div>
+
+<script src="/assets/js/smooth-scroll.js"></script>
+</body>
+
+<footer class="clean" style="background-image: url(/images/pink-radio.jpg); background-position: bottom; height: 60px; width: 100%">
+	<p class="copyright">&copy;2014 by <a href="http://craigeley.com" target="_blank">Craig Eley</a>. <a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Some rights reserved</a>.</p>
+</footer>
+
+</html>
