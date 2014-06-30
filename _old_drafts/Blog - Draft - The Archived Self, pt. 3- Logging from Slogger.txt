@@ -1,0 +1,6 @@
+## Draft: The Archived Self, pt. 3: Logging from Slogger
+
+This section of my logging workflow is probably the most complicated for logging newcomers and the most obvious for people who have been experimenting with Day One logging via Slogger. Even though Slogger is super robust and has a ton of options—with more coming every day, plus you can write your own—I initially found it a little awkward. Still, the thing that I love about it is the way that it can pull down information from services, create an individual entry for them, and then add them to Day One with time stamps from when they were originally published. I find this useful for two types of things in particular: photos and blog posts. In each case, I want the logbook to accurately reflect when they were posted, and I want them to be standalone entries.
+
+The services I use for photos and blog posts are Instagram and Tumblr, respectively. So here is how that works:
+

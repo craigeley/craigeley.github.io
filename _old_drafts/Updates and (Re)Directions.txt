@@ -1,0 +1,17 @@
+# Updates and (Re)Directions
+
+<img src="http://fieldnoise.com/diss/images/301_redirect.jpeg" alt="Redirect" height="90" width="900" />
+
+Putting myself on the academic job market has reminded me, in ways I didn't expect, of being a high school senior: excited about the future, and nervous to leave behind the institutional security I've come to depend on. In order to "make the most" of my time left with a university affiliation and "grad student" status, I've applied for every kind of award, funding, seminar, or symposia that I've come across. The good news is, I've gotten some of them, including a travel grant from my home department to do some research last week. It was [great][1].
+
+Another program that I was accepted for has more direct consequences for this blog. The [HASTAC Scholars][2] program invites a group of grad students to write some blog posts, comment on others, and generally engage with the broader HASTAC community. I've always been interested in alternative avenues for scholarly work, and especially in the way that web-based writing has the potential to incorporate sound within or alongside traditional academic prose. At the same time, I'm not entirely sure that "digital humanities" writ large (which is the cause of much celebration and *raison d'être* of HASTAC itself) is a good thing for "the humanities." But I'm also not sure it's a bad thing, and the real truth is I'm not even entirely sure what, exactly, it is. So I'm approaching this program as an opportunity to learn more and help me articulate my own feelings and approach to the "digital humanities."
+
+This means that content around these parts will likely be a bit slim, though I certainly don't want to abandon the ["digital dissertator"][3] posts. Most of my energy, though, and things related to my dissertation will likely be posted over on HASTAC. You can see all of my posts, and even subscribe to an RSS feed of them, by going to [my HASTAC blog][4]. I'll probably pin another post to the top of this blog letting new visitors know where to find me.
+
+Hope to see some of you over at HASTAC.
+
+
+[1]:	http://tumblr.fieldnoise.com/post/33717359283/letter-from-valoris-junior-audubon-society-to-p-p
+[2]:	http://hastac.org/scholars
+[3]:	http://fieldnoise.com/category/digital-dissertator/
+[4]:	http://hastac.org/blogs/craigeley

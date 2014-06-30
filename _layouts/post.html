@@ -17,10 +17,10 @@ article: true
 		{% if page.quote %}
 			<h2>{{ page.quote }}</h2>
 		{% endif %}
-		<center>{{ page.date | date_to_long_string }}</center>
+		<center><span class="post-date">{{ page.date | date_to_long_string }}</span></center>
 	</div>
 	<div id="nav-icon" style="bottom: 60px;">
-		<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-expand"></span></a>
+	<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-expand"></span></a>
 	</div>
 </header>
 <div id="article">

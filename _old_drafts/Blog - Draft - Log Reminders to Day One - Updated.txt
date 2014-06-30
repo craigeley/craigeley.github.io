@@ -1,0 +1,3 @@
+## Draft: Log Reminders to Day One - Updated
+
+For the real plain text and archival nerds out there, I also just realized that there was a way to combine my previous two tips into a super entry, by getting Reminders to write your days completed tasks to a text file first, and then have that text file aggregated alongside your IFTTT recipes to create one massive daily log.

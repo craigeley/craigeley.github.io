@@ -32,6 +32,8 @@
 	display: inline-block;
 	width: 32px;
 	height: 32px;
+	padding: 7px;
+	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	font-size: 32px;

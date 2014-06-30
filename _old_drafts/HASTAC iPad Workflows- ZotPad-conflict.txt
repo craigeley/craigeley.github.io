@@ -1,0 +1,12 @@
+## HASTAC iPad Workflows- ZotPad-conflict
+There has been a lot if interest among this current group of HASTAC on workflow, specifically working with PDFs on an iPad. (See these posts 
+
+Just yesterday, ZotPad 1.2 was released into the iTunes App Store. Though it just shows an incremental build number over its 1.1 predecessor, the app is actually a huge leap forward for people who use Zotero not only as a citation manager, but also a PDF manager. 
+
+Zotero has a lot of nice features, but in my opinion one of the worst is how it handles file attachments: by burying them in oddly-named folders.
+
+The Zotfile plugin allows you to overcome this 
+
+Zotfile plugin is an incredible timesaver, since it is automated processes that I used to do by hand—download a file, rename it, and place in a folder with my other research. Basically.
+
+Now, with ZotPad, you can access this information on your tablet and even on your iPhone, with on-demand or automatic file downloads.

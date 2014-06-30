@@ -148,7 +148,7 @@ img.site-icon-page {
 #nav-icon {
 	width: 30px;
 	left: 50%;
-	margin-left: -15px;
+	margin-left: -23px;
 	position: absolute;
 	z-index: 2;
 }
@@ -204,8 +204,8 @@ hr {
 	position: relative;
 	margin: 1.5rem 0;
 	border: 0;
-	border-top: 1px solid #eee;
-	border-bottom: 1px solid #fff;
+	border-top: 2px solid #eee;
+	border-bottom: 2px solid #fff;
 }
 
 abbr {

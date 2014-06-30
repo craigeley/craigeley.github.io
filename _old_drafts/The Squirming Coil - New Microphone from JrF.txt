@@ -1,0 +1,9 @@
+## The Squirming Coil - New Microphone from JrF
+On Thursday, the new microphones I ordered from [JrF][1] arrived, but I didn’t have time to test them out until yesterday afternoon. I still need to do some more experimenting with the hydrophone, but the induction coil pick-up mic is really crazy for recording the internal workings of all kinds of gizmos. I tried it out on my beard trimmer, my digital camera, and a variety of light fixtures. But by far the coolest sounds I got were from a set of emergency lights near my office. By waving the coil mic around at various distances from the fixture, I was able to get some great sounds. Have a listen below.
+
+[Exit][2] by [fieldnoiseaudio][3]
+
+
+[1]:	http://hydrophones.blogspot.com/
+[2]:	http://soundcloud.com/fieldnoiseaudio/exit
+[3]:	http://soundcloud.com/fieldnoiseaudio

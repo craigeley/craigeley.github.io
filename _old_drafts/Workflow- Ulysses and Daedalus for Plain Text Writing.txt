@@ -1,0 +1,14 @@
+## Workflow: Ulysses and Daedalus for Plain Text Writing
+
+Basically, the sidebar options can be understood based on your sync needs. It's best to use iCloud for syncing between two macs. If you want do sync between desktop and mobile, use the Daedalus setting. If you want to not sync at all, then use On My Mac.
+
+The External Sources section is where you can import Dropbox folders and files. Ulysses tags this with a comment at the top, which basically acts as the file name: editing that comment line renames your files on disk. Also, Ulysses treats different types of files differently. It reads plain text files (with the extension .txt) solely as plain text—that is, even if it is written in Markdown, it doesn't pass that through it's processors. However, in a slightly hard-to-find menu item, you can "Convert" items to different formats. {\>\>Screen shot in here.\<\<}In desktop or iCloud modes, this seems to simply change the parser, but in External Document mode it actually changes the filetype and extension on the disk. So using the "Convert to Markdown" command actually changes your extension from .txt to .md. However, in doing so, it renders your markup into Ulysses lovely, graphically-rendered things. 
+
+I've been waiting for a text editor to properly do markdown footnotes, and Ulysses has done the best job I've seen yet in that area.
+
+### TextExpansion and System Integration
+
+### Passing Judgment
+What's happening right now is a moment when plain text editors seem to be going in two directions at once. One set (nvALT, Byword, iA Writer, Mou) are really, ruly attempting
+
+Another set is moving toward replicating some of the features of more robust editors like Scrivener, including Markdown Composer 2. Others are turning the idea of Markdown into a platform, and this seems to be the directio that Ulysses is going, like FoldingText in some ways.

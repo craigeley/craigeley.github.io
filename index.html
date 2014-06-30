@@ -9,27 +9,36 @@ title: Home
 		<center><h3>craig eley dot com</h3></center>
 	</div>
 	<div id="nav-icon" style="bottom: 60px;">
-		<a class="scroll" data-speed="1000" href="#blog"><span class="genericon genericon-expand"></span></a>
+		<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-expand"></span></a>
 	</div>
 </header>
 <div id="article">
-<a name="blog"></a>
 	{% for post in paginator.posts %}
+		</br>
 		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		<center><span class="post-date">{{ post.date | date_to_long_string }}</span></center>
-		  <div class="content">{{ post.content }}</div>
+		  <div class="content">{{ post.content }}</div></br>
+<div id="base-icon">
+<center><a href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true"><span class="genericon genericon-twitter"></span></a><a href="{{ post.url }}/#comments"><span class="genericon genericon-chat"></span><a href="{{ post.url }}"><span class="genericon genericon-link"></span></center>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</br>
+<hr>
 	{% endfor %}
+
 </div>
 <nav class="pagination" role="navigation">
 	{% if paginator.next_page %}
-		<a class="newer-posts" href="/page{{paginator.next_page}}#blog">&larr; Older posts</a>
+		<a class="newer-posts" href="/page{{paginator.next_page}}/#article">&larr; Older posts</a>
 	{% endif %}
 	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 	{% if paginator.previous_page %}
 		{% if paginator.page == 2 %}
-			<a class="older-posts" href="/#blog">Newer posts &rarr;</a>
+			<a class="older-posts" href="/#article">Newer posts &rarr;</a>
 		{% else %}
-			<a class="older-posts" href="/page{{paginator.previous_page}}#blog">Newer posts &rarr;</a>
+			<a class="older-posts" href="/page{{paginator.previous_page}}/#article">Newer posts &rarr;</a>
 		{% endif %}
 	{% endif %}
 </nav>
+
+<script src="/assets/js/smooth-scroll.js"></script>

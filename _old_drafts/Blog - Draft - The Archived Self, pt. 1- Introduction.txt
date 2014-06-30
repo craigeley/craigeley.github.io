@@ -1,0 +1,26 @@
+## Draft: The Archived Self, pt. 1: Introduction
+
+There has been a lot of interest in logging, and the notion of "the quantified self." This trend is toward a larger "big data" kind of thing, which includes, of course, Nate Silver (newly of ESPN).
+
+I realized, though, I wasn't interested in a quantified self, I was interested in the archival self, or the logged self. What's the difference? For me, it's purely aesthetic. As cool as Slogger it, in my experiences with early versions it made too many entries with too few options, without really messing around inside its guts—and I'm a guy who generally like to mess around in there. And I actually still use Slogger in this set-up, which I'll explain in a second.
+
+So, in thinking about how to do the best of both worlds, I created a workflow that pushes a variety of IFTTT channels to Dropbox documents, then has those documents read nightly by a script that pulls them into Day One.
+
+So basically, I wanted to bring Terpstra's ideas into Kleon's context. So what I did is create massive Day One journal entries that log things that I did that day. I might go back and look at it, but I don't necessarily want to be able to quickly sort the data.
+
+Over the last six months, I've been increasingly interested in "managing my personal data." It was, and is, an admittedly vague notion that at first I took to mean retreating from most social networks so that my data would be mined less frequently for advertisers. So I quit Facebook, which remains a great decision. However, I also realized that there are a bunch of social networks whose data is useful *to me*, and I wanted to capture and retain some of that data for my own use.
+
+[Nicholas Felton][1] is probably the coolest example of this.
+
+Wolfram Alpha's [personal analytics][2].
+
+The concept for my logging ideas came from Brett Terpstra (who else?), based on his Taskpaper logging system. As cool as the Slogger project is, I found it pretty limited, even with all of the command line and text file fussing necessary to making it work. I actually still use Slogger for two things, which I'll explain below.
+
+Basically, here is the idea: get as much information as you can into text files which reside in a specific folder, then get a script to read those files and input them into Day One.
+
+My workflow draws on three different things:
+1. Logging from IFTTT. The possibilities here are essentially endless (post coming tomorrow)
+2. Logging from Slogger. (post coming on Thursday)
+3. Handwritten logbook entries. (post coming on Friday)
+[1]:	http://feltron.com/
+[2]:	http://blog.wolframalpha.com/2013/08/27/tracking-life-changes-with-personal-analytics/

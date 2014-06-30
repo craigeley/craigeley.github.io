@@ -1,0 +1,14 @@
+## Audubon's Episodes
+Today marks what would be the 226th birthday of Mr. John James Audubon. Because he died in 1851, Audubon often falls outside of my historical research on birds, even though he looms so incredibly large in the history of ornithology in the United States. I’ve tended more toward the work of the [ghost-smelling][1] Elliott Coues and the drawings of [Louis Agassiz Fuertes][2]—who worked together on a book called [Citizen Bird][3]—but none of that matters now. It’s JJ’s birthday, and as a present to all of you I’ve got a deaccessioned Iowa City Public Library cassette tape called Audubon’s *Episodes*.
+
+From what I can tell, these so-called episodes were assembled from a wide variety of other materials; while I haven’t listened to all 152 minutes (!), these sound like vignettes cast-off from other journals, sketches, or memoirs. This is a professionally done audiotape from the 90s. It’s is a pretty large file (\\\~250MB), so be patient, but you can download it [here][4].
+
+
+
+
+
+
+[1]:	http://books.google.com/books?id=YsQ-AQAAIAAJ&pg=PA81&dq=coues+ghost+smeller&hl=en&ei=Xjq3TcWpHsfv0gHGpfDbDw&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDsQ6AEwAg%23v=onepage&q=coues%20ghost%20smeller&f=false
+[2]:	http://cidc.library.cornell.edu/Fuertes2000/BirdView.asp?From=sr&QY=Gouaches&QT=T&Size=2&BirdID=2305
+[3]:	(http://www.gutenberg.org/files/11896/11896-h/11896-h.htm)
+[4]:	http://fieldnoise.com/audio/episodes.zip

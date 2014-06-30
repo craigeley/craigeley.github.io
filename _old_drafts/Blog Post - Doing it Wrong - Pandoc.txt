@@ -1,0 +1,17 @@
+---  
+title: Doing it Wrong: Pandoc
+author: Craig Eley 
+date: May 29, 2014 
+---
+
+I used to think I had academic writing in Markdown [all][1] [figured][2] [out][3]. Ever since I decided to write my dissertation in Markdown, I've been going along pretty comfortably, assuming that most of the headaches I faced were commonplace: occasionally odd character rendering, citation inconsistencies, and the need to frequently muck around in LaTeX files. To put it plainly: I was dead wrong.
+
+Here's why: I learned most of my Markdown tricks from bloggers, developers, and coders—people who primarily live and write on the web. When I started doing my academic writing in Markdown, I imagined myself a kind of pioneer, blowing past the basic Markdown primers that I saw on Profhacker and moving into more "advanced" territory.
+
+Thankfully, thanks to [Matt Thomas](https://twitter.com/mattthomas) and [Caleb McDaniel](https://twitter.com/wcaleb), I've recently read more in-depth Markdown/Pandoc articles from hardcore academics doing hardcore Markdown/Pandoc, and what I learned is so obvious that I'm embarrassed to say I've been overlooking it the whole time. Here's what I've been doing wrong
+
+The truth is, if you put in a little effort, Pandoc is way easier that I even imagined. Like many things involving coding, there is a significant up front investment in time, which should 
+
+[1]: http://craigeley.com/post/45896860184/the-digital-dissertator-academic-writing-and
+[2]: http://craigeley.com/post/46089397285/the-digital-dissertator-markdown-footnote-update
+[3]: http://craigeley.com/post/60358551339/formatting-your-cv-with-markdown-and-latex

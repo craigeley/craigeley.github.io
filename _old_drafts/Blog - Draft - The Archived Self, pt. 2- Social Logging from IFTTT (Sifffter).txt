@@ -1,0 +1,15 @@
+## Draft: The Archived Self, pt. 2: Social Logging from IFTTT (Sifffter)
+
+Even though Day One doesn't have an IFTTT channel (yet), it is possible to bring information from almost any channel into Day One, if you are comfortable with a little scripting and automation services like Lingon or Hazel. By tweaking code developed by Brett Terpstra last year to send Taskpaper files to Day One (which is still a pretty neat and useful trick), you can pick up a whole slew of IFTTT data and put it into Day One. It's kind of like Slogger, but with even less command line (and, relatedly, somewhat fewer options). The trick is to send your IFTTT channels to create a text file log in a specific format, then telling a script how to read that format.
+
+Here's the deal: 
+
+1. Create a folder in your Dropbox for your IFTTT files. Mine is called "Tasks," just to be used as an example here. Yours can be called whatever.
+
+2. Set your recipes to begin with today's date, and then set them to end with th "@done" tag. Right now I'm using Foursquare, Twitter, and Last.fm.
+
+3. Take this script, modify lines xx and xx, and save it somewhere on your hard drive.
+
+4. Schedule it to run nightly, say at 11:55.
+
+If things go according to plan, you should end up with an entry like this:
