@@ -1,2 +1,0 @@
-## Workflow - Additional Notes
-ReaddleDocs is best for searching and looking for PDFs. Elements and Byword are best for actually doing writing. Simplenote is there just to work with Scivener. Because of the way certain apps are limited by the folders that they can look into, this is why it is still necessary to have separate folders, which at the end of the day isn't a bad thing.

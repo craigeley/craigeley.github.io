@@ -1,3 +1,0 @@
-## Draft: Logging Runs with Runkeeper and RubiTrack
-
-This is a new document that I want to get into Dropbox. Let's say it's a draft of a blog post. 
