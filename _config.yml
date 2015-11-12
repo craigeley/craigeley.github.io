@@ -1,0 +1,33 @@
+# Site settings
+title: craig eley dot com
+email: craigeley@gmail.com
+description: "The personal online home of Craig Eley, radio producer and researcher"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: D66B29
+  secondary: D66B29  
+  secondary-dark: 333
+
+# Team names, titles and social links
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/craigeley
+  - title: instagram
+    url: http://instagram.com/craigeley
+  - title: github
+    url: http://github.com/craigeley
+  - title: soundcloud
+    url: http://soundcloud.com/craigeley
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 821 University Ave.
+  - line: Madison, WI 53703
+
+# Build settings
+markdown: kramdown
+permalink: pretty
