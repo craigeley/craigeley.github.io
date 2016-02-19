@@ -1,31 +1,53 @@
+baseurl: ""
+
 # Site settings
 title: craig eley dot com
-email: craigeley@gmail.com
-description: "The personal online home of Craig Eley, radio producer and researcher"
+email: your-email@domain.com
+description: "The online home of radio producer and cultural historian Craig Eley"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: D66B29
-  secondary: D66B29  
+  primary: F29864
+  secondary: F8B66C  
   secondary-dark: 333
 
 # Team names, titles and social links
+people:
+- name: Liz Wyckoff
+  pic: 1
+  position: The Bride
+  social:
+    - title: twitter
+      url: http://twitter.com/elizwyckoff
+    - title: instagram
+      url: https://www.instagram.com/elizwyckoff
+    - title: envelope
+      url: mailto:elizabeth.wyckoff@gmail.com?subject=Wedding
+
+- name: Craig Eley
+  pic: 2
+  position: The Groom
+  social:
+    - title: twitter
+      url: http://twitter.com/craigeley
+    - title: instagram
+      url: http://instagram.com/craigeley
+    - title: envelope
+      url: mailto:craigeley@gmail.com?subject=Wedding
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/craigeley
+    url: https://twitter.com/craigeley
   - title: instagram
-    url: http://instagram.com/craigeley
+    url: https://instagram.com/craigeley
   - title: github
-    url: http://github.com/craigeley
-  - title: soundcloud
-    url: http://soundcloud.com/craigeley
-
+    url: https://github.com/craigeley
+    
 # Postal address (add as many lines as necessary)
 address:
-  - line: 821 University Ave.
+  - line: 734 Jenifer St.
   - line: Madison, WI 53703
 
 # Build settings
