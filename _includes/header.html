@@ -19,20 +19,15 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#couple">The Couple</a>
+                        <a class="page-scroll" href="#projects">Projects</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#wedding">The Weekend</a>
+                        <a class="page-scroll" href="#portfolio">Blogs</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#timeline">Timeline</a>
+                    {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#gallery">Gallery</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#travel">Get Here</a>
-                    </li>
+                    {% endfor %}
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -44,10 +39,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">&nbsp;</div>
-                <div class="intro-lead-in">&larr;&rarr;</div>
-                <div class="intro-heading">getting married</div>
-                <a href="#couple" class="page-scroll btn btn-xl">the details</a>
+                <div class="intro-lead-in"><br></div>
+                <div class="intro-heading"><br><br></div>
+                <a href="#projects" class="page-scroll"><span class="fa-stack fa-2x"><i class="fa fa-chevron-down fa-stack-1x fa-inverse"></i></a>
             </div>
         </div>
     </header>
