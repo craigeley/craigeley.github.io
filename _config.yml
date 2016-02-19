@@ -11,6 +11,18 @@ color:
 
 # Team names, titles and social links
 
+people:
+- name: Craig Eley
+  pic: 2
+  position: The Groom
+  social:
+    - title: twitter
+      url: http://twitter.com/craigeley
+    - title: instagram
+      url: http://instagram.com/craigeley
+    - title: envelope
+      url: mailto:craigeley@gmail.com?subject=Website%20Contact
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

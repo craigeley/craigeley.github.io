@@ -21,6 +21,10 @@ body {
     color: #777;
 }
 
+.text-white {
+    color: #FFF;
+}
+
 .text-primary {
     color: #D66B29;
 }
