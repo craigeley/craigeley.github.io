@@ -6,7 +6,7 @@ tags:
 - literature
 - recommended reading
 redirect_from: /post/81678684458/my-friend-ted-thompsons-debut-novel-came-out-last/
-redirect_to: http://fieldnoise.com/04-04-2014/land-of-steady-habits
+redirect_to: http://fieldnoise.com/04-04-2014/land-of-steady-habits.html
 ---
 
 ![](http://mirandabw.com/wp-content/uploads/2014/04/TedThompsonLand-of-Steady-Habits-cover.jpg)

@@ -4,7 +4,7 @@ title: One Small Step
 author: Craig Eley 
 date: July 21, 2014
 tags: [sound, archive]
-redirect_to: http://fieldnoise.com/07-21-2014/one-small-step
+redirect_to: http://fieldnoise.com/07-21-2014/one-small-step.html
 ---
 
 Yesterday marked the 45th anniversary of Neil Armstrong setting foot on the surface of the moon as a part of the Apollo 11 mission with Buzz Aldrin and Michael Collins. That event is rightly remembered as a televised one: Walter Cronkite himself later said the landing was "almost as remarkable a feat for television as the space flight itself."[^147201056]

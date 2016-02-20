@@ -8,7 +8,7 @@ tags:
 - research 
 - process 
 redirect_from: /post/82789889079/margaret-fullers-sublime-sounds/
-redirect_to: http://fieldnoise.com/04-15-2014/margaret-fullers-sublime-sounds
+redirect_to: http://fieldnoise.com/04-15-2014/margaret-fullers-sublime-sounds.html
 ---
 
 Yesterday the Pulitzer committee announced their annual prizes, and while literary Twitter was freaking out over Kushner vs. Tartt, I noticed that [the biography winner](http://www.pulitzer.org/citation/2014-Biography-or-Autobiography) is a book about [Margaret Fuller](http://en.wikipedia.org/wiki/Margaret_Fuller).

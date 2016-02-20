@@ -5,7 +5,7 @@ date: '2013-09-19T15:21:00-04:00'
 tags: 
 - mixtapes 
 redirect_from: /post/61689801795/fieldnoise03-into-the-wind-when-this-mix-was/
-redirect_to: http://fieldnoise.com/09-19-2013/fieldnoise03-into-the-wind-when-this-mix-was
+redirect_to: http://fieldnoise.com/09-19-2013/fieldnoise03-into-the-wind-when-this-mix-was.html
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/111280219&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

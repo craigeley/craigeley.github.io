@@ -6,7 +6,7 @@ tags:
 - noise 
 - sport 
 redirect_from: /post/66983902597/crowd-noise/
-redirect_to: http://fieldnoise.com/11-14-2013/crowd-noise
+redirect_to: http://fieldnoise.com/11-14-2013/crowd-noise.html
 ---
 
 This weekend I’m heading to my first football game since I arrived here at Penn State. My parents are driving up from Pittsburgh, and I’m excited to spend time with them, drink boozy hot beverages out of thermoses, and experience the unique kind of mayhem that is a Big 10 football Saturday, which I haven’t done since I was living in Iowa.

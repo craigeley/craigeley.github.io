@@ -5,7 +5,7 @@ date: '2014-05-27T10:00:18-04:00'
 tags: 
 - headlines 
 redirect_from: /post/87000591396/dragons-at-the-zoo/
-redirect_to: http://fieldnoise.com/05-27-2014/dragons-at-the-zoo
+redirect_to: http://fieldnoise.com/05-27-2014/dragons-at-the-zoo.html
 ---
 
 Just a few weeks ago I posted a photo of [Douglas Burden](http://craigeley.com/post/85524807267/about-two-weeks-ago-the-american-museum-of), nature filmmaker and museum display innovator. Perhaps the single event that launched Burden to fame was a trip he took to Java where he successfully captured two live Komodo dragons and brought them back to the Bronx Zoo in 1927.

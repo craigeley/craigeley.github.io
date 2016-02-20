@@ -6,7 +6,7 @@ tags:
 - Archive 
 - kingday2014 
 redirect_from: /post/73949131613/a-nation-that-continues-year-after-year-to-spend/
-redirect_to: http://fieldnoise.com/01-20-2014/a-nation-that-continues-year-after-year-to-spend
+redirect_to: http://fieldnoise.com/01-20-2014/a-nation-that-continues-year-after-year-to-spend.html
 ---
 
 <audio controls><source src="http://mlk-kpp01.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3" type="audio/mpeg"></audio>

@@ -4,7 +4,7 @@ author: Craig Eley
 date: 2014-07-25
 layout: post
 tags: [music, weekend listening]
-redirect_to: http://fieldnoise.com/07-25-2014/hum-and-sing
+redirect_to: http://fieldnoise.com/07-25-2014/hum-and-sing.html
 ---
 
 This morning while doing some packing I had a chance to catch up with [Radius](http://theradius.us/), a fantastic podcast and radio show featuring live-recorded compositions, experimental music and sound art. They are currently in the middle of [GRIDS](http://theradius.us/grids), a series of four commissioned broadcasts at Chicago-area electrical stations. Series episode 51 features a work by Ethan Rose called "Hum," a droning interplay between the human voice and the electrical apparatus. You can listen to the entire 60-minute piece below, and read a [write-up over at Vice](http://motherboard.vice.com/read/ethan-roses-hum-a-human-choir-sings-the-songs-of-americas-power-grid).

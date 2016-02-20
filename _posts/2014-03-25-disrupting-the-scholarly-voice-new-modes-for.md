@@ -6,7 +6,7 @@ tags:
 - workflow 
 - presentations 
 redirect_from: /post/80676282554/disrupting-the-scholarly-voice-new-modes-for/
-redirect_to: http://fieldnoise.com/03-25-2014/disrupting-the-scholarly-voice-new-modes-for
+redirect_to: http://fieldnoise.com/03-25-2014/disrupting-the-scholarly-voice-new-modes-for.html
 ---
 
 Two weekends ago at the [IASPM annual conference](http://iaspm-us.net/conferences/) I saw a performance by [The Killer Apps](http://kembrew.com/the-killer-apps/), who bill themselves as “Iowa City’s best all-mobile-phone cover band.” Although they started as an actual cover band, the collaborative project between Kembrew McLeod and Loren Glass has now morphed into a multimedia scholarly performance duo. At IASPM, The Killer Apps “performed” a paper about the relationship between telephony and music, using their pre-recorded voices, the voices of other scholars, instructional telephone videos, music samples, and live synthesizers played exclusively on iPhones. The result was a uniquely thoughtful and engaging examination of a very “sound studies” topic told in and through sound. Which is to say, it wasn’t “gimmicky”: I think having scholars like Lisa Gitelman and Jonathan Sterne “phone-in” their actual voices via actual telephones in a paper about telephones is a particular stroke of genius, and the music also synced up well.

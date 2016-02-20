@@ -4,7 +4,7 @@ title: 50 Stars
 author: Craig Eley 
 date: August 21, 2014
 tags: [history, statehood]
-redirect_to: http://fieldnoise.com/08-21-2014/happy-anniversary-hawaii
+redirect_to: http://fieldnoise.com/08-21-2014/happy-anniversary-hawaii.html
 ---
 
 The American history nerd in me is happy to recognize that today marks the 55th anniversary of Hawaii's statehood—and with it the 55th birthday of the 50-star American flag design. This image, taken from the [Eisenhower Presendential Library](http://www.eisenhower.archives.gov/research/online_documents/flag.html), shows the official flag schematic that accompanied Executive Order 10834:

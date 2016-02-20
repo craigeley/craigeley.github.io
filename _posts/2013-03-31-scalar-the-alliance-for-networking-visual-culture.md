@@ -6,7 +6,7 @@ tags:
 - digital 
 - academics
 redirect_from: /post/46814883822/scalar-the-alliance-for-networking-visual-culture/
-redirect_to: http://fieldnoise.com/03-31-2013/scalar-the-alliance-for-networking-visual-culture
+redirect_to: http://fieldnoise.com/03-31-2013/scalar-the-alliance-for-networking-visual-culture.html
 --- 
 
 > [Scalar](http://scalar.usc.edu/)

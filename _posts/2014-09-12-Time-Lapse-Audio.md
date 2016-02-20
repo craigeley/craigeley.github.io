@@ -4,7 +4,7 @@ title: Time Lapse Audio
 author: Craig Eley 
 date: 2014-09-12
 tags: [sound]
-redirect_to: http://fieldnoise.com/09-12-2014/Time-Lapse-Audio09-12-2014/Time-Lapse-Audio
+redirect_to: http://fieldnoise.com/09-12-2014/Time-Lapse-Audio09-12-2014/Time-Lapse-Audio.html
 ---
 
 Legendary New York recordist Tony Schwartz came up in conversation at work today, and one of my colleagues mentioned "Nancy Grows Up," a time-lapse audio essay documenting the development of his niece. While I consider myself a pretty big Schwartz fan (and a proud owner of a vinyl copy of [*New York 19*](http://instagram.com/p/arYs7dAAu6/?modal=true)), I had never heard this piece. Once I did, I was blown away, and haven't stopped listening since:

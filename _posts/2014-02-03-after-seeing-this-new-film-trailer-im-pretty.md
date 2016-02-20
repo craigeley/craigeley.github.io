@@ -6,7 +6,7 @@ tags:
 - silence 
 - films 
 redirect_from: /post/75482668793/after-seeing-this-new-film-trailer-im-pretty/
-redirect_to: http://fieldnoise.com/02-03-2014/after-seeing-this-new-film-trailer-im-pretty
+redirect_to: http://fieldnoise.com/02-03-2014/after-seeing-this-new-film-trailer-im-pretty.html
 ---
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/64c_1MtQUlM" frameborder="0" allowfullscreen></iframe>

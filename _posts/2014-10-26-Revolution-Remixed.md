@@ -4,7 +4,7 @@ title: Revolution Remixed
 author: Craig Eley 
 date: 2014-10-27
 tags: [audio, radio, revolution]
-redirect_to: http://fieldnoise.com/10-26-2014/Revolution-Remixed
+redirect_to: http://fieldnoise.com/10-26-2014/Revolution-Remixed.html
 ---
 
 Apologies for the "radio silence" (couldn't resist) on this blog as of late, but as you likely know, I have been busy working on [actual radio](http://craigeley.com/09-04-2014/knowledge/). My first two months here at [TTBOOK](http://ttbook.org) have been an exciting and exhausting crash course in the ins and outs of public media. I've been working on digital initiatives large and small, including a ton of content for an upcoming mini-series on death and dying, as well as some more blog-like posts which I'll hopefully be able to show off sooner rather than later.

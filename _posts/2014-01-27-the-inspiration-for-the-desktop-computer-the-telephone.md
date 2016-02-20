@@ -7,7 +7,7 @@ tags:
 - sound 
 - technology 
 redirect_from: /post/74722195414/the-inspiration-for-the-desktop-computer-the-telephone/
-redirect_to: http://fieldnoise.com/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone
+redirect_to: http://fieldnoise.com/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone.html
 ---
 
 In his [recent book](https://www.dukeupress.edu/MP3/) on the history of the mp3, Jonathan Sterne argues that sound technologies—especially the telephone—played a critical role in the development of digital technologies. Telephony is “central” to digital history, he writes, “as an industry, as a set of practices, as an aesthetic field, and as a medium.”[^1] He goes on to explain how the telephonic research impacted sound recording:
