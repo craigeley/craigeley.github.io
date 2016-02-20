@@ -6,7 +6,7 @@ tags:
 - headlines 
 - academics 
 redirect_from: /post/78438313558/tim-cooks-sound-and-silence/
-redirect_to: http://fieldnoise.com/03-03-2014/tim-cooks-sound-and-silence
+redirect_to: http://fieldnoise.com/03-03-2014/tim-cooks-sound-and-silence/
 --- 
 
 

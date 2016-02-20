@@ -6,5 +6,5 @@ tags:
 - DH 
 - Conferences 
 redirect_from: /post/68786201151/asa-recap-digital-humanities/
-redirect_to: http://fieldnoise.com/12-02-2013/asa-recap-digital-humanities
+redirect_to: http://fieldnoise.com/12-02-2013/asa-recap-digital-humanities/
 ---

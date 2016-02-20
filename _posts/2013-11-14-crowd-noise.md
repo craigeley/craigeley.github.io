@@ -6,6 +6,6 @@ tags:
 - noise 
 - sport 
 redirect_from: /post/66983902597/crowd-noise/
-redirect_to: http://fieldnoise.com/11-14-2013/crowd-noise
+redirect_to: http://fieldnoise.com/11-14-2013/crowd-noise/
 ---
 

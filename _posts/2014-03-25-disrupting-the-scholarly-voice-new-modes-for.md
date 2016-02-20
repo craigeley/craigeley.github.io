@@ -6,7 +6,7 @@ tags:
 - workflow 
 - presentations 
 redirect_from: /post/80676282554/disrupting-the-scholarly-voice-new-modes-for/
-redirect_to: http://fieldnoise.com/03-25-2014/disrupting-the-scholarly-voice-new-modes-for
+redirect_to: http://fieldnoise.com/03-25-2014/disrupting-the-scholarly-voice-new-modes-for/
 ---
 
 

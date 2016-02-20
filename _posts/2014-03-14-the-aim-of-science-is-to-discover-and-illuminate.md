@@ -6,7 +6,7 @@ tags:
 - literature
 - science 
 redirect_from: /post/79581197007/the-aim-of-science-is-to-discover-and-illuminate/
-redirect_to: http://fieldnoise.com/03-14-2014/the-aim-of-science-is-to-discover-and-illuminate
+redirect_to: http://fieldnoise.com/03-14-2014/the-aim-of-science-is-to-discover-and-illuminate/
 ---
 
 

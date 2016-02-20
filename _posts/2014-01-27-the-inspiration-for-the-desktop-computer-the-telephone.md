@@ -7,7 +7,7 @@ tags:
 - sound 
 - technology 
 redirect_from: /post/74722195414/the-inspiration-for-the-desktop-computer-the-telephone/
-redirect_to: http://fieldnoise.com/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone
+redirect_to: http://fieldnoise.com/01-27-2014/the-inspiration-for-the-desktop-computer-the-telephone/
 ---
 
 

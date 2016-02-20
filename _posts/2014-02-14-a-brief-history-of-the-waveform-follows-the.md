@@ -7,7 +7,7 @@ tags:
 - waveform 
 - teaching 
 redirect_from: /post/76635926584/a-brief-history-of-the-waveform-follows-the/
-redirect_to: http://fieldnoise.com/02-14-2014/a-brief-history-of-the-waveform-follows-the
+redirect_to: http://fieldnoise.com/02-14-2014/a-brief-history-of-the-waveform-follows-the/
 ---
 
 

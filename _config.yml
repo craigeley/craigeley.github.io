@@ -45,7 +45,7 @@ markdown: kramdown
 permalink: pretty
 
 # Permalinks
-permalink: /:month-:day-:year/:categories/:title/
+permalink: /:month-:day-:year/:title/
 tag_dir: tagged
 
 gems:

@@ -7,6 +7,6 @@ tags:
 - music 
 - experimental 
 redirect_from: /post/59706815028/the-second-chapter-in-my-effort-to-bring-the-field/
-redirect_to: http://fieldnoise.com/08-29-2013/the-second-chapter-in-my-effort-to-bring-the-field
+redirect_to: http://fieldnoise.com/08-29-2013/the-second-chapter-in-my-effort-to-bring-the-field/
 ---
 

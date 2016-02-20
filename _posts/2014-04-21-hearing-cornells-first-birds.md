@@ -8,6 +8,6 @@ tags:
 - Archive 
 - research 
 redirect_from: /post/83413734654/hearing-cornells-first-birds/
-redirect_to: http://fieldnoise.com/04-21-2014/hearing-cornells-first-birds
+redirect_to: http://fieldnoise.com/04-21-2014/hearing-cornells-first-birds/
 ---
 
