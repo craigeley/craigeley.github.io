@@ -6,7 +6,7 @@ tags:
 - writing 
 - audience 
 redirect_from: /post/60174272024/writing-and-audience/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/09-03-2013/writing-and-audience
 --- 
 
 Now that my dissertation is approved and I’m working on the next phase of that project, I keep going back to the question of audience. This was actually a common discussion in my early grad school classes at Iowa, where trade paperbacks and other popular nonfiction work were often discussed as “American studies” texts. As I recall, *Fast Food Nation* and *No Logo*, among more academic texts, were taught in my theory and methods classes.

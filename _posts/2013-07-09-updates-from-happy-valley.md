@@ -5,7 +5,7 @@ date: '2013-07-09T14:21:00-04:00'
 tags: 
 - update 
 redirect_from: /post/55015338232/updates-from-happy-valley/
-image: /images/radio-brown.jpg
+redirect_to: http://fieldnoise.com/07-09-2013/updates-from-happy-valley
 ---
 
 I'm happily writing this from Liz and my [new house](http://instagram.com/p/bRuJ0ACHvj/) in State College, PA. We've been here about a week, and I've already started to settle in to my new position as a Postdoctoral Fellow at the [Institute for the Arts and Humanities](http://iah.psu.edu/), as a part of their ["Being Humans" initiative](http://iah.psu.edu/programs/human.shtml). So yes, I successfully defended my dissertation on June 6th. Finally. Thanks to Justin Kerr of [Black Sheep Postal Service](http://www.blacksheeppostal.com/) for making these awesome [graduation announcements](http://instagram.com/p/ZT9a5sh3wy/).

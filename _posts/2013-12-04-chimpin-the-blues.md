@@ -7,7 +7,7 @@ tags:
 - radio 
 - reissues 
 redirect_from: /post/68979190615/chimpin-the-blues/
-image: /images/radio-brown.jpg
+redirect_to: http://fieldnoise.com/12-04-2013/chimpin-the-blues
 --- 
 
 The lovely and talented [Liz Wyckoff](https://twitter.com/elizwyckoff) sent [this item](http:/ews.psu.edu/story/295583/2013/11/25/arts-and-entertainment/decade-later-wpsu-radio-program-%E2%80%98chimpin%E2%80%99-blues%E2%80%99) across my desk yesterday straight from the Penn State Newswire, and this morning I finally had a chance to hear [*“Chimpin’ the Blues”*](http://www.amazon.com/Chimpin-Blues-Robert-Crumb-Zolten/dp/B00FR0P6Y8ef=sr_1_2?ie=UTF8&qid=1386005105&sr=8-2&keywords=chimpin+the+blues), a recording of an hour-long radio show between two old-time record collectors: Jerry Zolten, an American Studies professor at Penn State Altoona, and Robert Crumb, the legendary cartoonist. (The name of the album comes from Crumb: “It’s a couple of monkeys just chattering to each other about their little cultural interests.”)

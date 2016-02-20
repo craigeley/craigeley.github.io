@@ -4,7 +4,7 @@ title: On the Radio - Recording the Ivory-Billed Woodpecker
 author: Craig Eley 
 date: 2015-01-27
 tags: [radio, field recording, found sound, history]
-image: /images/radio-teal.jpg
+redirect_to: http://fieldnoise.com/01-27-2015/recording-rare-bird
 ---
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188054360&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

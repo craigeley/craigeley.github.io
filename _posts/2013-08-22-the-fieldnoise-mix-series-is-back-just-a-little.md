@@ -7,7 +7,7 @@ tags:
 - music 
 - experimental 
 redirect_from: /post/59039594584/the-fieldnoise-mix-series-is-back-just-a-little/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/08-22-2013/the-fieldnoise-mix-series-is-back-just-a-little
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/106714726&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>

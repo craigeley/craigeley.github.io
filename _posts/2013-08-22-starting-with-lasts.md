@@ -7,7 +7,7 @@ tags:
 - LASTS13 
 - digital humanities 
 redirect_from: /post/59071238009/starting-with-lasts/
-image: /images/radio-brown.jpg
+redirect_to: http://fieldnoise.com/08-22-2013/starting-with-lasts
 ---
 
 As I briefly mentioned [here](/post/58419455912/apple-applies-for-patent-on-audio-hyperlinking), last week I had the opportunity to attend the [Liberal Arts Scholarship and Technology Summit](http://sites.psu.edu/lasts2013/). This was the first official event I went to in my capacity as one of the [IAH](http://iah.psu.edu/) fellows, and it functioned as a crash course in the digital humanities work that is currently being done at Penn State. But for me it was also a crash course in digital humanities in general—in many ways, I’ve always engaged with digital humanities from a distance, gleaning the easy parts (workflow! websites! Twitter!), while leaving some of the meatier things perennially on my to-do list (theory, method, coding). Even though I only attended the morning sessions, LASTS gave me a much better handle on the buzzwords that are probably commonplace by now in English departments but still seem to me to be on the fringes of American studies.

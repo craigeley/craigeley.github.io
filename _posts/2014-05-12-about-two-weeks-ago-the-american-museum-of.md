@@ -6,7 +6,7 @@ tags:
 - Archive 
 - museums 
 redirect_from: /post/85524807267/about-two-weeks-ago-the-american-museum-of/
-image: /images/radio-brown.jpg
+redirect_to: http://fieldnoise.com/05-12-2014/about-two-weeks-ago-the-american-museum-of
 ---
 
 ![](http://images.library.amnh.org/digital/files/original/502b044e744d6617b8871f3d6a6bd555.jpg)

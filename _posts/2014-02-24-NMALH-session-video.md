@@ -6,7 +6,7 @@ tags:
 - conferences 
 - video 
 redirect_from: /post/77703955136/back-in-december-i-went-to-the-new-media-in/
-image: /images/radio-teal.jpg
+redirect_to: http://fieldnoise.com/02-24-2014/NMALH-session-video
 ---
 
 <iframe src="//player.vimeo.com/video/87372541" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -5,7 +5,7 @@ date: '2014-02-18T14:30:16-05:00'
 tags: 
 - field recording 
 redirect_from: /post/77090831221/postcard-from-charles-m-bogert-to-moe-asch-june/
-image: /images/radio-purple.jpg
+redirect_to: http://fieldnoise.com/02-18-2014/postcard-from-charles-m-bogert-to-moe-asch-june
 --- 
 
 ![](http://d.pr/8VSD+)

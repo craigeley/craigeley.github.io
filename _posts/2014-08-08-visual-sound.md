@@ -3,9 +3,8 @@ layout: post
 title: The Visual Microphone
 author: Craig Eley 
 date: August 12, 2014
-tags: 
-- headlines
-image: /images/radio-teal.jpg
+tags: [headlines]
+redirect_to: http://fieldnoise.com/08-08-2014/visual-sound
 ---
 
 In the 1858 edition of *Wild Scenes and Songbirds*, Charles Wilkins Webber speculated that sound waves might live on forever:

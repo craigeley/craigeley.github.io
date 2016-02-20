@@ -4,11 +4,10 @@ title: Theming Evernote
 author: Craig Eley 
 date: 2015-02-08
 tags: [evernote, workflow]
-image: /images/radio-teal.jpg
-redirect_to: http://verifyandrepair.com/2015/02/08/theming-evernote/
+redirect_to: http://verifyandrepair.com/02-08-2015/theming-evernote
 ---
 
-As I mentioned [last](http://craigeley.com/02-02-2015/writing-evernote-markdown) [week](http://craigeley.com/02-03-2015/evernote-markdown-update), I’ve been getting back into Evernote as an all-purpose database platform. However, there were still a few features that I missed from some of my favorite text editors: control over the color scheme, and a “distraction-free” full screen writing mode.
+As I mentioned [last](/02-02-2015/writing-evernote-markdown) [week](/02-03-2015/evernote-markdown-update), I’ve been getting back into Evernote as an all-purpose database platform. However, there were still a few features that I missed from some of my favorite text editors: control over the color scheme, and a “distraction-free” full screen writing mode.
 
 However, since Evernote is basically an HTML editor, I suspected there might be a way to style it. And sure enough, after poking around a bit, I found a CSS file which controls how the notes look. (And just the notes—I couldn’t find a way to style the sidebars.)
 

@@ -3,9 +3,8 @@ layout: post
 title: Making Knowledge
 author: Craig Eley 
 date: 2014-09-04
-tags: 
-- TTBOOK
-image: /images/radio-teal.jpg
+tags: [TTBOOK]
+redirect_to: http://fieldnoise.com/09-04-2014/knowledge
 ---
 
 My first week on the job at [To the Best of Our Knowledge](http://ttbook.org) has been a crash course is seeing how radio gets made—and it still hasn't lost any of the magic. This morning I sat in as next weekend's show on "dual identities" was mixed. Pictured, left to right: producer Rehman Tungekar, host Anne Strainchamps in the recording booth, and engineer Caryl Owen. You can *just* make me out as a reflection above Anne's head.

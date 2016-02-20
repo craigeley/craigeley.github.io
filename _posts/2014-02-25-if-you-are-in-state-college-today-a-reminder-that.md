@@ -4,7 +4,7 @@ title: IAH Talk - Birdlike Acts
 tags: 
 - presentations 
 redirect_from: /post/77801342660/if-you-are-in-state-college-today-a-reminder-that/
-image: /images/radio-brown.jpg
+redirect_to: http://fieldnoise.com/02-25-2014/if-you-are-in-state-college-today-a-reminder-that
 --- 
 
 ![](http://d.pr/HV7C+)

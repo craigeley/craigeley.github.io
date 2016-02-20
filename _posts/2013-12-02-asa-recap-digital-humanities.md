@@ -6,7 +6,7 @@ tags:
 - DH 
 - Conferences 
 redirect_from: /post/68786201151/asa-recap-digital-humanities/
-image: /images/radio-teal.jpg
+redirect_to: http://fieldnoise.com/12-02-2013/asa-recap-digital-humanities
 ---
 
 It’s hard to believe that it is already December 2nd—my November went by in a really productive and exciting whirlwind of friends, family, and academic conferences. And it’s not slowing down just yet: this weekend I’m heading to Boston for the [New Media in American Literary History Symposium](http://www.northeastern.eduulabmalh/). But before I get to that, I wanted to do a recap of some of the digital humanities work I saw on display at the American Studies Association annual meeting.

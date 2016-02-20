@@ -8,7 +8,7 @@ tags:
 - archive 
 - whistling 
 redirect_from: /post/46850577797/for-those-of-you-in-iowa-city-or-coming-into/
-image: /images/radio-purple.jpg
+redirect_to: http://fieldnoise.com/04-01-2013/for-those-of-you-in-iowa-city-or-coming-into
 ---
 
 ![](http://d.pr/QMi5+)

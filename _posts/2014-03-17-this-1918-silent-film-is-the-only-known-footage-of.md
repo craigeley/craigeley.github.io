@@ -5,7 +5,7 @@ date: '2014-03-17T17:07:43-04:00'
 tags: 
 - Archive 
 redirect_from: /post/79900902240/this-1918-silent-film-is-the-only-known-footage-of/
-image: /images/radio-teal.jpg 
+redirect_to: http://fieldnoise.com/03-17-2014/this-1918-silent-film-is-the-only-known-footage-of
 ---
 
 <iframe src="//player.vimeo.com/video/89341830" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/89341830">Heath Hen</a> from <a href="http://vimeo.com/user18975251">Craig Eley</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -6,7 +6,7 @@ tags:
   - taxidermy
   - art 
 redirect_from: /post/69187110530/from-the-audubon-exhibit-at-the-museum-of-fine/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/12-06-2013/from-the-audubon-exhibit-at-the-museum-of-fine
 ---
 
 ![](http://d.pr/qWLm+)

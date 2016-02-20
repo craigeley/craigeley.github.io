@@ -5,10 +5,10 @@ date: '2014-04-11T15:13:00-04:00'
 tags: 
 - whistling 
 redirect_from: /post/82405292979/yesterday-i-gave-a-short-presentation-on-my-work/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/04-11-2014/yesterday-i-gave-a-short-presentation-on-my-work
 ---
 
-<audio controls><source src="http://ia600204.us.archive.org/3/items/MargaretMckee-InvitationWaltz1921/MargaretMckeewhistlerWithOrchestra-InvitationWaltz1921.mp3"</audio>
+<audio controls><source src="http://ia600204.us.archive.org/3/items/MargaretMckee-InvitationWaltz1921/MargaretMckeewhistlerWithOrchestra-InvitationWaltz1921.mp3" type="audio/mpeg"></audio>
 
 Yesterday I gave a short presentation on my work to a group of undergraduate honors students at Penn State, and I mentioned this song but somehow left it out of my presentation slides. I’ve probably posted about it before, but it remains one of my favorites.
 

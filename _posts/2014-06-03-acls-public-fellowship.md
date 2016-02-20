@@ -2,12 +2,9 @@
 layout: post 
 title: ACLS Public Fellowship 
 date: '2014-06-03T12:18:05-04:00' 
-tags: 
-- jobs 
-- radio 
-- public 
+tags: [jobs, radio, public]
 redirect_from: /post/87704434178/acls-public-fellowship/
-image: /images/radio-purple.jpg
+redirect_to: http://fieldnoise.com/06-03-2014/acls-public-fellowship
 ---
 
 I'm happy to finally announce that I've been named a 2014 [ACLS Public

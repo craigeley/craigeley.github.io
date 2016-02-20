@@ -6,7 +6,7 @@ tags:
 - digidiss
 - markdown
 redirect_from: /post/45896860184/the-digital-dissertator-academic-writing-and/
-image: /images/radio-purple.jpg
+redirect_to: http://verifyandrepair.com/03-21-2013/the-digital-dissertator-academic-writing-in-markdown
 ---
 ![Writing](http://fieldnoise.com/diss/images/writing.jpeg)
 

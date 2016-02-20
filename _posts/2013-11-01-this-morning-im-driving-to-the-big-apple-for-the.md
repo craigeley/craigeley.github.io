@@ -6,7 +6,7 @@ tags:
 - conferences 
 - presentations 
 redirect_from: /post/65688883472/this-morning-im-driving-to-the-big-apple-for-the/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/11-01-2013/this-morning-im-driving-to-the-big-apple-for-the
 ---
 
 ![](http://d.pr/Us9M+)

@@ -2,12 +2,9 @@
 layout: post 
 title: Sounds of the South 
 date: '2013-12-09T18:44:00-05:00' 
-tags: 
-- dh 
-- dhsound 
-- conferences 
+tags: [dhsound, conferences]
 redirect_from: /post/69531112013/sounds-of-the-south/
-image: /images/radio-purple.jpg
+redirect_to: http://fieldnoise.com/12-09-2013/sounds-of-the-south
 --- 
 
 From [Sounds of the South](http://today.duke.edu/2013/11/soundsofsouth):

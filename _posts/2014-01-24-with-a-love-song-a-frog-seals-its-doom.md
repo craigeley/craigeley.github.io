@@ -5,7 +5,7 @@ date: '2014-01-24T21:59:00-05:00'
 tags: 
 - headlines 
 redirect_from: /post/74448502869/with-a-love-song-a-frog-seals-its-doom/
-image: /images/radio-teal.jpg
+redirect_to: http://fieldnoise.com/01-24-2014/with-a-love-song-a-frog-seals-its-doom
 --- 
 
 From [With a love song, a frog seals its doom](http://www.csmonitor.com/Science/2014/0124/With-a-love-song-a-frog-seals-its-doom):

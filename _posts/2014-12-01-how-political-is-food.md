@@ -3,10 +3,8 @@ layout: post
 title: How Political is Food?
 author: Craig Eley 
 date: 2014-12-01
-tags: 
-- politics
-- TTBOOK
-image: /images/radio-teal.jpg
+tags: [politics, TTBOOK]
+redirect_to: http://fieldnoise.com/12-01-2014/how-political-is-food
 ---
 
 Last week I wrote a post on Alice Waters and the politics of food that [went live over on TTBOOK](http://www.ttbook.org/book/how-political-food) on Thanksgiving. It’s something that’s been stewing since I read [this *New Yorker* article](http://www.newyorker.com/magazine/2014/11/03/shut-eat) on “foodie culture,” and is essentially a response to it. The post got branded an “essay” somewhere in the chain before it went live, but I think it’s a little short and informal for that; it’s really more akin to something I would post here than a fully fleshed out “essay,” but you get the picture.

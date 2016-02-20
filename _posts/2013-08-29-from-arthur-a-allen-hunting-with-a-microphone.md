@@ -6,7 +6,7 @@ tags:
 - archive 
 - field recording 
 redirect_from: /post/59678133955/from-arthur-a-allen-hunting-with-a-microphone/
-image: /images/radio-teal.jpg
+redirect_to: http://fieldnoise.com/08-29-2013/from-arthur-a-allen-hunting-with-a-microphone
 ---
 
 ![](http://d.pr/65fN+)

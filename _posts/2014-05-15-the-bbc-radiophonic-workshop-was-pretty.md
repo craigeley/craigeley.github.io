@@ -2,12 +2,9 @@
 layout: post 
 title: 'Radiophonic' 
 date: '2014-05-15T10:00:23-04:00' 
-tags: 
-- found sound 
-- musique concrete 
-- radio 
+tags: [found sound, musique concrete, radio] 
 redirect_from: /post/85817859487/the-bbc-radiophonic-workshop-was-pretty/
-image: /images/radio-pink.jpg
+redirect_to: http://fieldnoise.com/05-15-2014/the-bbc-radiophonic-workshop-was-pretty
 ---
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/YW8TdMgSxaQ" frameborder="0" allowfullscreen></iframe>
