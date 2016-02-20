@@ -43,3 +43,7 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Permalinks
+permalink: /:month-:day-:year/:categories/:title
+tag_dir: tagged
