@@ -8,7 +8,7 @@ redirect_from: /post/82405292979/yesterday-i-gave-a-short-presentation-on-my-wor
 image: /images/radio-pink.jpg
 ---
 
-{% audio http://ia600204.us.archive.org/3/items/MargaretMckee-InvitationWaltz1921/MargaretMckeewhistlerWithOrchestra-InvitationWaltz1921.mp3 %}
+<audio controls><source src="http://ia600204.us.archive.org/3/items/MargaretMckee-InvitationWaltz1921/MargaretMckeewhistlerWithOrchestra-InvitationWaltz1921.mp3"</audio>
 
 Yesterday I gave a short presentation on my work to a group of undergraduate honors students at Penn State, and I mentioned this song but somehow left it out of my presentation slides. I’ve probably posted about it before, but it remains one of my favorites.
 

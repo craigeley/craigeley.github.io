@@ -14,7 +14,7 @@ Yesterday marked the 45th anniversary of Neil Armstrong setting foot on the surf
 
 However, the audio itself is also pretty interesting, and thanks to NASA and the Internet Archive you listen to [the entire mission](https://archive.org/details/Apollo11Audio). The big moment—"One small step for man, one giant leap for mankind"—happens starting at the 11:13 moment of the following clip:
 
-{% audio https://archive.org/download/Apollo11Audio/938-AAG.mp3 %}
+<audio controls><source src="https://archive.org/download/Apollo11Audio/938-AAG.mp3"</audio>
 
 The complete audio for many other missions is available for streaming and download via the [NASA Audio Collection](https://archive.org/details/nasaaudiocollection).
 

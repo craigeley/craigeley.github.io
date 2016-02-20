@@ -9,7 +9,9 @@ redirect_from: /post/73949131613/a-nation-that-continues-year-after-year-to-spen
 image: /images/radio-purple.jpg
 ---
 
-{% audio http://mlk-kpp01.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3 %}
+<audio controls>
+<source src="http://mlk-kpp01.stanford.edu/media/audio/1967_04_04_beyond_vietnam.mp3 " type="audio/mpeg">
+</audio>
 
 > "A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death." 
 
