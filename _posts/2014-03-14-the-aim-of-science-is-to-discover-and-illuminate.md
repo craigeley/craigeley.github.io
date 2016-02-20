@@ -9,7 +9,4 @@ redirect_from: /post/79581197007/the-aim-of-science-is-to-discover-and-illuminat
 redirect_to: http://fieldnoise.com/03-14-2014/the-aim-of-science-is-to-discover-and-illuminate.html
 ---
 
-> The aim of science is to discover and illuminate truth. And that, I take it, is the aim of literature, whether biography or history or fiction. It seems to me, then, that there can be no separate literature of science…If there is poetry in my book about the sea, it is not because I deliberately put it there, but because no one could write truthfully about the sea and leave out the poetry.
-
-—from [Rachel Carson’s acceptance speech](http://www.nationalbook.orgbaacceptspeech_rcarson.html#.UyNkimRdVXY) for the 1952 National Book Award for Nonfiction for *The Sea Around Us*.
 

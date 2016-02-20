@@ -8,6 +8,3 @@ redirect_from: /post/48007971373/harmony-resonance-syntony-or-tuning-these-are/
 redirect_to: http://fieldnoise.com/04-14-2013/harmony-resonance-syntony-or-tuning-these-are.html
 ---
 
-> Harmony, resonance, syntony, or tuning—these are all words we use to describe the relationship between systems that vary together cyclically, that influence one another even though not in contact, that retain their separate identities while sharing a common mode of behavior.
-
-Hugh G. J. Aitken, *Syntony and Spark: The Origins of Radio* (New York: Wiley, 1976), p. 41.

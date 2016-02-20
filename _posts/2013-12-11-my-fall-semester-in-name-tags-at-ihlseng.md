@@ -6,5 +6,3 @@ tags: [conferences]
 redirect_from: /post/69691390430/my-fall-semester-in-name-tags-at-ihlseng/
 redirect_to: http://fieldnoise.com/12-11-2013/my-fall-semester-in-name-tags-at-ihlseng.html
 --- 
-
-<center><iframe src="//instagram.com/p/hyQa6OgAtn/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe><center>

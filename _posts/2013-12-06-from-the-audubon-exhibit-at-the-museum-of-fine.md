@@ -8,7 +8,3 @@ tags:
 redirect_from: /post/69187110530/from-the-audubon-exhibit-at-the-museum-of-fine/
 redirect_to: http://fieldnoise.com/12-06-2013/from-the-audubon-exhibit-at-the-museum-of-fine.html
 ---
-
-![](http://d.pr/qWLm+)
-
-From the Audubon exhibit at the Museum of Fine Arts, Boston.

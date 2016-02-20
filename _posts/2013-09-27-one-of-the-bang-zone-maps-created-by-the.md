@@ -8,6 +8,3 @@ redirect_from: /post/62441748202/one-of-the-bang-zone-maps-created-by-the/
 redirect_to: http://fieldnoise.com/09-27-2013/one-of-the-bang-zone-maps-created-by-the.html
 ---
 
-![](http://d.pr/eZwP+)
-
-One of the “bang-zone maps” created by the Citizens League Against the Sonic Boom (CLASB) in the late 1960s. I really want to make this into a t-shirt. 
