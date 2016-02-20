@@ -7,7 +7,7 @@ tags:
 - dhsound 
 - LASTS13 
 redirect_from: /post/58419455912/apple-applies-for-patent-on-audio-hyperlinking/
-redirect_to: http://fieldnoise.com/08-16-2013/apple-applies-for-patent-on-audio-hyperlinking.html
+redirect_to: http://fieldnoise.com/08-16-2013/apple-applies-for-patent-on-audio-hyperlinking
 --- 
 
 

@@ -6,6 +6,6 @@ tags:
 - sifttter
 - logging
 redirect_from: /post/72565974459/sifttter-an-ifttt-to-day-one-logger/
-redirect_to: http://verifyandrepair.com/01-07-2014/sifttter-an-ifttt-to-day-one-logger.html
+redirect_to: http://verifyandrepair.com/01-07-2014/sifttter-an-ifttt-to-day-one-logger
 ---
 

@@ -7,7 +7,7 @@ tags:
 - LASTS13 
 - digital humanities 
 redirect_from: /post/59071238009/starting-with-lasts/
-redirect_to: http://fieldnoise.com/08-22-2013/starting-with-lasts.html
+redirect_to: http://fieldnoise.com/08-22-2013/starting-with-lasts
 ---
 
 

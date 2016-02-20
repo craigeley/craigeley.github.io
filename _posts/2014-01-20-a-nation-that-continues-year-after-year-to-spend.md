@@ -6,7 +6,7 @@ tags:
 - Archive 
 - kingday2014 
 redirect_from: /post/73949131613/a-nation-that-continues-year-after-year-to-spend/
-redirect_to: http://fieldnoise.com/01-20-2014/a-nation-that-continues-year-after-year-to-spend.html
+redirect_to: http://fieldnoise.com/01-20-2014/a-nation-that-continues-year-after-year-to-spend
 ---
 
 

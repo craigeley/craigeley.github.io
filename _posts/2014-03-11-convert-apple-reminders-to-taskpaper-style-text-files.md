@@ -8,7 +8,7 @@ tags:
 - Taskpaper 
 - sifttter 
 redirect_from: /post/79279572795/convert-apple-reminders-to-taskpaper-style-text-files/
-redirect_to: http://verifyandrepair.com/03-11-2014/convert-apple-reminders-to-taskpaper-style-text-files.html
+redirect_to: http://verifyandrepair.com/03-11-2014/convert-apple-reminders-to-taskpaper-style-text-files
 ---
 
 

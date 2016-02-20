@@ -8,7 +8,7 @@ tags:
 - research 
 - process 
 redirect_from: /post/82789889079/margaret-fullers-sublime-sounds/
-redirect_to: http://fieldnoise.com/04-15-2014/margaret-fullers-sublime-sounds.html
+redirect_to: http://fieldnoise.com/04-15-2014/margaret-fullers-sublime-sounds
 ---
 
 

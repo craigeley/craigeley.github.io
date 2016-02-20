@@ -6,6 +6,6 @@ tags:
 - sifttter 
 - logging
 redirect_from: /post/76227567094/sifttter-update-manual-transmissions/
-redirect_to: http://verifyandrepair.com/02-10-2014/sifttter-update-manual-transmissions.html
+redirect_to: http://verifyandrepair.com/02-10-2014/sifttter-update-manual-transmissions
 ---
 

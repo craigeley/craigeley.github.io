@@ -6,6 +6,6 @@ tags:
 - nvalt 
 - workflow 
 redirect_from: /post/80876964138unning-multiple-instances-of-nvalt/
-redirect_to: http://verifyandrepair.com/03-27-2014/running-multiple-instances-of-nvalt.html
+redirect_to: http://verifyandrepair.com/03-27-2014/running-multiple-instances-of-nvalt
 ---
 

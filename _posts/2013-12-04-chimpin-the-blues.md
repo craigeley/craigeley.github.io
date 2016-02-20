@@ -7,7 +7,7 @@ tags:
 - radio 
 - reissues 
 redirect_from: /post/68979190615/chimpin-the-blues/
-redirect_to: http://fieldnoise.com/12-04-2013/chimpin-the-blues.html
+redirect_to: http://fieldnoise.com/12-04-2013/chimpin-the-blues
 --- 
 
 

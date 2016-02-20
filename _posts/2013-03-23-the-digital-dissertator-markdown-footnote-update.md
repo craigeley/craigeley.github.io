@@ -6,5 +6,5 @@ tags:
 - digidiss 
 - markdown
 redirect_from: /post/46089397285/the-digital-dissertator-markdown-footnote-update/
-redirect_to: http://verifyandrepair.com/03-23-2013/the-digital-dissertator-markdown-footnote-update.html
+redirect_to: http://verifyandrepair.com/03-23-2013/the-digital-dissertator-markdown-footnote-update
 ---

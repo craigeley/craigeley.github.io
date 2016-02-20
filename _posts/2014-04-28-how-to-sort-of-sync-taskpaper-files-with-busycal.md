@@ -7,5 +7,5 @@ tags:
 - productivity 
 - logging 
 redirect_from: /post/84124624548/how-to-sort-of-sync-taskpaper-files-with-busycal/
-redirect_to: http://verifyandrepair.com/04-28-2014/how-to-sort-of-sync-taskpaper-files-with-busycal.html
+redirect_to: http://verifyandrepair.com/04-28-2014/how-to-sort-of-sync-taskpaper-files-with-busycal
 ---

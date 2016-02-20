@@ -6,6 +6,6 @@ tags:
 - conferences 
 - video 
 redirect_from: /post/77703955136/back-in-december-i-went-to-the-new-media-in/
-redirect_to: http://fieldnoise.com/02-24-2014/NMALH-session-video.html
+redirect_to: http://fieldnoise.com/02-24-2014/NMALH-session-video
 ---
 

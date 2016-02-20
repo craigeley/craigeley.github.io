@@ -7,7 +7,7 @@ tags:
 - formatting 
 - CV 
 redirect_from: /post/60358551339/formatting-your-cv-with-markdown-and-latex/
-redirect_to: http://verifyandrepair.com/09-05-2013/formatting-your-cv-with-markdown-and-latex.html
+redirect_to: http://verifyandrepair.com/09-05-2013/formatting-your-cv-with-markdown-and-latex
 ---
 
 

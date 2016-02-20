@@ -6,6 +6,6 @@ tags:
 - acoustics 
 - magazines 
 redirect_from: /post/87125609903/uncube-21-acoustics/
-redirect_to: http://fieldnoise.com/05-28-2014/uncube-21-acoustics.html
+redirect_to: http://fieldnoise.com/05-28-2014/uncube-21-acoustics
 --- 
 

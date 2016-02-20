@@ -6,7 +6,7 @@ tags:
 - workflow 
 - tumblr 
 redirect_from: /post/65431848090/quick-tip-read-tumblr-feed-in-an-rss-reader/
-redirect_to: http://verifyandrepair.com/10-29-2013/quick-tip-read-tumblr-feed-in-an-rss-reader.html
+redirect_to: http://verifyandrepair.com/10-29-2013/quick-tip-read-tumblr-feed-in-an-rss-reader
 ---
 
 

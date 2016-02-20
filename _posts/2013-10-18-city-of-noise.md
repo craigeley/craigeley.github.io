@@ -6,7 +6,7 @@ tags:
 - noise 
 - headlines 
 redirect_from: /post/64405525685/city-of-noise/
-redirect_to: http://fieldnoise.com/10-18-2013/city-of-noise.html
+redirect_to: http://fieldnoise.com/10-18-2013/city-of-noise
 --- 
 
 
